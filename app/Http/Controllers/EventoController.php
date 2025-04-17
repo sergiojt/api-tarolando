@@ -4,13 +4,36 @@ namespace App\Http\Controllers;
 
 use App\Models\CurtirEvento;
 use App\Models\Evento;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 
 class EventoController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
-        return Evento::all();
+        $query = Evento::query();
+    
+        // Apenas eventos a partir de hoje
+        $query->where('data', '>=', Carbon::today());
+    
+        // Filtro por endereço
+        if ($request->filled('endereco')) {
+            $query->where('endereco', 'like', '%' . $request->endereco . '%');
+        }
+
+        if ($request->filled('cidade')) {
+            $query->where('cidade', 'like', '%' . $request->cidade . '%');
+        }
+    
+        // Filtro por estilo
+        if ($request->filled('estilo')) {
+            $query->where('estilo', 'like', '%' . $request->estilo . '%');
+        }
+    
+        // Ordenar por data ASC
+        $query->orderBy('data', 'asc');
+    
+        return $query->get();
     }
 
     public function store(Request $request)

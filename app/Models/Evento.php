@@ -20,6 +20,8 @@ class Evento extends Model
         'ingresso',
         'latitude',
         'longitude',
+        'data',
+        'hora',
     ];
 
     public function curtidas()
