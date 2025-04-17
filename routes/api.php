@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\EventoController;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,7 +15,9 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "api" middleware group. Make something great!
 |
 */
-
-Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-    return $request->user();
+Route::post('user', [Auth::class, 'store']);
+Route::get('user/google/{id}', [Auth::class, 'findGoogle']);
+Route::group(['middleware' => ['JWTToken']], function () {
+    Route::apiResource('eventos', EventoController::class);
+    Route::post('/eventos/{id}/curtir', [EventoController::class, 'toggleCurtir']);
 });
