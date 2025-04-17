@@ -18,3 +18,5 @@ yarn-error.log
 /.vscode
 composer.lock
 .env
+/public/index.php
+/public/robots.txt
