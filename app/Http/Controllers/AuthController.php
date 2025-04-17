@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\User;
 use App\Models\UserToken;
+use Firebase\JWT\JWT;
 use Illuminate\Http\Request;
 
 class AuthController extends Controller
@@ -69,5 +70,11 @@ class AuthController extends Controller
             "data" => null,
             "message" => "User listed successfully."
         ], 200);
+    }
+
+    public function generateToken($data){
+        $data_token = array("id" => $data->id, "name" => $data->name, "email" => $data->email);
+
+        return JWT::encode($data_token, env('APP_KEY'), 'HS256');
     }
 }
