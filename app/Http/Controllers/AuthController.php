@@ -48,7 +48,7 @@ class AuthController extends Controller
     }
 
     public function findGoogle($id){
-        $user = User::where("google_id", $id)->with("companyDefault")->first();
+        $user = User::where("google_id", $id)->first();
 
         if($user){
             $token = $this->generateToken($user);
