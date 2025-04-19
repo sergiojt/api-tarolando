@@ -75,7 +75,7 @@ class AuthController extends Controller
     public function termo(Request $request){
         $user = User::find($request->id);
 
-        $user->term = 1;
+        $user->termo = 1;
         $user->save();
 
         return response()->json([
