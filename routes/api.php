@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "api" middleware group. Make something great!
 |
 */
-Route::post('user', [Auth::class, 'store']);
+Route::post('user', [AuthController::class, 'store']);
 Route::get('user/google/{id}', [AuthController::class, 'findGoogle']);
 Route::get('/eventos/importar', [EventoController::class, 'importarEventos']);
 Route::group(['middleware' => ['JWTToken']], function () {
