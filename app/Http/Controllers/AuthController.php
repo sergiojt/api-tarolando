@@ -72,6 +72,18 @@ class AuthController extends Controller
         ], 200);
     }
 
+    public function termo(Request $request){
+        $user = User::find($request->id);
+
+        $user->term = 1;
+        $user->save();
+
+        return response()->json([
+            "data" => null,
+            "message" => "Termo aceito com sucesso."
+        ], 200);
+    }
+
     public function generateToken($data){
         $data_token = array("id" => $data->id, "name" => $data->name, "email" => $data->email);
 

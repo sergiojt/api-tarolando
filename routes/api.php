@@ -22,4 +22,5 @@ Route::get('/eventos/importar', [EventoController::class, 'importarEventos']);
 Route::group(['middleware' => ['JWTToken']], function () {
     Route::apiResource('eventos', EventoController::class);
     Route::post('/eventos/{id}/curtir', [EventoController::class, 'toggleCurtir']);
+    Route::get('/user/termo', [AuthController::class, 'termo']);
 });
