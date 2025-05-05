@@ -38,6 +38,6 @@ class Evento extends Model
 
     public function checkins()
     {
-        return $this->belongsToMany(User::class, 'checkin_eventos')->withTimestamps();
+        return $this->hasMany(CheckinEvento::class);
     }
 }

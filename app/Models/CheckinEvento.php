@@ -11,4 +11,9 @@ class CheckinEvento extends Model
 
     protected $table = 'checkin_eventos';
     protected $fillable = ['user_id', 'evento_id', 'comentario'];
+
+    public function user()
+    {
+        return $this->belongsTo(\App\Models\User::class);
+    }
 }

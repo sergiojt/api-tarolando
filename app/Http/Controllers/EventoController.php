@@ -175,7 +175,7 @@ class EventoController extends Controller
     
         // Ordenar por data ASC
  
-        $query->with('checkins')->with('curtidas')->orderBy('data', 'asc');
+        $query->orderBy('data', 'asc');
     
         return $query->get();
     }
