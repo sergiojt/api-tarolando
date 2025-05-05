@@ -19,6 +19,8 @@ use Illuminate\Support\Facades\Route;
 Route::post('user', [AuthController::class, 'store']);
 Route::get('user/google/{id}', [AuthController::class, 'findGoogle']);
 Route::get('/eventos/importar', [EventoController::class, 'importarEventos']);
+Route::get('/eventos/importar/bar/{data}', [EventoController::class, 'importarEventosDoJson']);
+Route::get('/eventos/importar/sympla', [EventoController::class, 'importSympla']);
 Route::group(['middleware' => ['JWTToken']], function () {
     Route::apiResource('eventos', EventoController::class);
     Route::post('/eventos/{id}/curtir', [EventoController::class, 'toggleCurtir']);

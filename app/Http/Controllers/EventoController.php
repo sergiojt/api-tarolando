@@ -5,12 +5,91 @@ namespace App\Http\Controllers;
 use App\Models\CheckinEvento;
 use App\Models\CurtirEvento;
 use App\Models\Evento;
-use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
+use Goutte\Client;
+use Carbon\Carbon;
 
 class EventoController extends Controller
 {
+    public function importSympla()
+    {
+        $client = new Client();
+        $url = 'https://www.sympla.com.br/eventos?s=recife&page=2';
+
+        $crawler = $client->request('GET', $url);
+
+        $crawler->filter('a.sympla-card')->each(function ($node) {
+            $title = $node->filter('h3')->text('');
+            $link = $node->filter('a')->attr('href') ?? null;
+            $dataHora = $node->filter('.sc-eDLJxc')->text('');
+            $local = $node->filter('.sc-gLDzan')->text('');
+            echo $title.'<br>';
+        });
+    }
+
+    function importarEventosDoJson($dataDoUltimoDomingo)
+    {
+        set_time_limit(0); // Sem limite de tempo
+        
+        $jsonPath = public_path('eventos.json');
+
+        if (!File::exists($jsonPath)) {
+            return response()->json(['error' => 'Arquivo não encontrado'], 404);
+        }
+
+        $eventos = json_decode(File::get($jsonPath), true);
+
+        $diasDaSemana = [
+            'segunda-feira' => 1,
+            'terça-feira' => 2,
+            'quarta-feira' => 3,
+            'quinta-feira' => 4,
+            'sexta-feira' => 5,
+            'sábado' => 6,
+            'domingo' => 0,
+        ];
+
+        $domingoBase = Carbon::parse($dataDoUltimoDomingo)->startOfDay();
+
+        foreach ($eventos as $evento) {
+            foreach ($evento['horario'] as $linha) {
+                [$diaSemanaStr, $horario] = explode(':', $linha, 2);
+
+                $diaSemanaStr = trim($diaSemanaStr);
+                $horario = trim($horario);
+
+                if (str_contains(strtolower($horario), 'fechado')) {
+                    continue; // Ignorar dias fechados
+                }
+
+                $numeroDia = $diasDaSemana[$diaSemanaStr];
+                $data = $domingoBase->copy()->addDays($numeroDia);
+
+                $existe = Evento::where('local', $evento['nome'])
+                                ->where('data', $data)
+                                ->exists();
+
+                if (!$existe) {
+                    Evento::create([
+                        'nome' => $evento['nome'],
+                        'descricao' => $evento['descricao'] ?? null,
+                        'endereco' => $evento['endereco'],
+                        'cidade' => 'Recife',
+                        'local' => $evento['nome'], // Considerando nome como local
+                        'estilo' => 'Não informado',
+                        'musica_ao_vivo' => false,
+                        'horario' => $horario,
+                        'ingresso' => 'Não informado',
+                        'latitude' => $evento['latitude'],
+                        'longitude' => $evento['longitude'],
+                        'data' => $data->toDateString(),
+                    ]);
+                }
+            }
+        }
+    }
+
     public function checkin(Request $request, Evento $evento)
     {
         // Cria o check-in
