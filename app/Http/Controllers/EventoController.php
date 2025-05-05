@@ -210,8 +210,9 @@ class EventoController extends Controller
         return Evento::create($request->all());
     }
 
-    public function show(Evento $evento)
+    public function show($id)
     {
+       $evento = Evento::where('id', $id)->with('checkins')->with('curtidas')->first();
         return $evento;
     }
 
