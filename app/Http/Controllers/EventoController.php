@@ -77,7 +77,7 @@ class EventoController extends Controller
                         'endereco' => $evento['endereco'],
                         'cidade' => 'Recife',
                         'local' => $evento['nome'], // Considerando nome como local
-                        'estilo' => 'Não informado',
+                        'estilo' => 'bar',
                         'musica_ao_vivo' => false,
                         'horario' => $horario,
                         'ingresso' => 'Não informado',
