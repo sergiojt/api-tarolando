@@ -153,7 +153,11 @@ class EventoController extends Controller
         $query = Evento::query();
     
         // Apenas eventos a partir de hoje
-        $query->where('data', '>=', Carbon::today());
+        if(!isset($request->endereco) && isset($request->cidade) && isset($request->estilo)){
+            $query->where('data', '=', Carbon::today());
+        }else{
+            $query->where('data', '>=', Carbon::today());
+        }
     
         // Filtro por endereço
         if ($request->filled('endereco')) {
@@ -170,6 +174,7 @@ class EventoController extends Controller
         }
     
         // Ordenar por data ASC
+ 
         $query->orderBy('data', 'asc');
     
         return $query->get();
