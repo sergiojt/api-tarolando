@@ -165,7 +165,7 @@ class EventoController extends Controller
         }
 
         if ($request->filled('cidade')) {
-            $query->where('cidade', 'like', '%' . $request->cidade . '%');
+            $query->where('endereco', 'like', '%' . $request->cidade . '%');
         }
     
         // Filtro por estilo
