@@ -49,4 +49,9 @@ class User extends Authenticatable
     {
         return $this->belongsToMany(Evento::class, 'curtir_eventos')->withTimestamps();
     }
+
+    public function checkins()
+    {
+        return $this->belongsToMany(Evento::class, 'checkin_eventos')->withTimestamps();
+    }
 }

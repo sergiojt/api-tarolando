@@ -22,6 +22,8 @@ class Evento extends Model
         'longitude',
         'data',
         'hora',
+        'descricao',
+        'cpf',
     ];
 
     public function curtidas()
@@ -32,5 +34,10 @@ class Evento extends Model
     public function usuariosQueCurtiram()
     {
         return $this->belongsToMany(User::class, 'curtir_eventos')->withTimestamps();
+    }
+
+    public function checkins()
+    {
+        return $this->belongsToMany(User::class, 'checkin_eventos')->withTimestamps();
     }
 }

@@ -1,17 +1,56 @@
 {
-  "data": "2025-04-17",
+  "data": "2025-04-26",
   "eventos": [
     {
-      "nome": "Espetáculo de Comédia com Raphael Ghanem",
-      "local": "Teatro RioMar Recife",
-      "endereco": "Avenida República do Líbano, 251 – Pina",
+      "nome": "Belo in Concert 2025 e Jorge Vercillo – JV30",
+      "local": "Geraldão",
+      "endereco": "Avenida Mal. Mascarenhas de Moraes, s/n – Imbiribeira",
       "cidade": "Recife",
-      "estilo": "Comédia",
-      "musica_ao_vivo": false,
+      "estilo": "Pagode / MPB",
+      "musica_ao_vivo": true,
       "horario": "20h",
-      "ingresso": "A partir de R$ 60",
-      "latitude": -8.0998,
-      "longitude": -34.8813,
+      "ingresso": "A partir de R$ 100",
+      "latitude": -8.1158,
+      "longitude": -34.9187,
+      "imagem": null
+    },
+    {
+      "nome": "Geraldo Azevedo – Turnê 80 Anos",
+      "local": "Teatro Guararapes",
+      "endereco": "Centro de Convenções de Pernambuco – Olinda",
+      "cidade": "Olinda",
+      "estilo": "MPB / Regional",
+      "musica_ao_vivo": true,
+      "horario": "20h30",
+      "ingresso": "A partir de R$ 80",
+      "latitude": -8.0110,
+      "longitude": -34.8700,
+      "imagem": null
+    },
+    {
+      "nome": "Matuê – Turnê 333",
+      "local": "Classic Hall",
+      "endereco": "Avenida Agamenon Magalhães, s/n – Salgadinho",
+      "cidade": "Olinda",
+      "estilo": "Trap / Hip Hop",
+      "musica_ao_vivo": true,
+      "horario": "21h",
+      "ingresso": "A partir de R$ 90",
+      "latitude": -8.0130,
+      "longitude": -34.8700,
+      "imagem": null
+    },
+    {
+      "nome": "Família Betero – Espetáculo Infantil",
+      "local": "Teatro do IMIP",
+      "endereco": "Rua dos Coelhos, 300 – Boa Vista",
+      "cidade": "Recife",
+      "estilo": "Infantil / Teatro",
+      "musica_ao_vivo": false,
+      "horario": "16h",
+      "ingresso": "A partir de R$ 75",
+      "latitude": -8.0650,
+      "longitude": -34.8840,
       "imagem": null
     }
   ]

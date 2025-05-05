@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\CheckinEvento;
 use App\Models\CurtirEvento;
 use App\Models\Evento;
 use Carbon\Carbon;
@@ -10,6 +11,21 @@ use Illuminate\Support\Facades\File;
 
 class EventoController extends Controller
 {
+    public function checkin(Request $request, Evento $evento)
+    {
+        // Cria o check-in
+        $checkin = CheckinEvento::create([
+            'user_id' => $request->user_id, // ou $request->user_id se não tiver auth
+            'evento_id' => $evento->id,
+            'comentario' => $request->input('comentario'),
+        ]);
+    
+        return response()->json([
+            'message' => 'Check-in realizado com sucesso!',
+            'data' => $checkin,
+        ], 201);
+    }
+
     public function importarEventos()
     {
         $jsonPath = public_path('eventos.json');
@@ -80,8 +96,33 @@ class EventoController extends Controller
         return $query->get();
     }
 
+    private static function validaCPF($cpf)
+    {
+        $cpf = preg_replace('/[^0-9]/', '', $cpf);
+
+        if (strlen($cpf) != 11 || preg_match('/(\d)\1{10}/', $cpf)) {
+            return false;
+        }
+
+        for ($t = 9; $t < 11; $t++) {
+            for ($d = 0, $c = 0; $c < $t; $c++) {
+                $d += $cpf[$c] * (($t + 1) - $c);
+            }
+            $d = ((10 * $d) % 11) % 10;
+            if ($cpf[$c] != $d) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
     public function store(Request $request)
     {
+        if (!isset($request->cpf) && !self::validaCPF($request->cpf)) {
+            return response()->json(['message' => 'CPF inválido.'], 400);
+        }
+
         return Evento::create($request->all());
     }
 
@@ -92,6 +133,10 @@ class EventoController extends Controller
 
     public function update(Request $request, Evento $evento)
     {
+        if (!isset($request->cpf) && !self::validaCPF($request->cpf)) {
+            return response()->json(['message' => 'CPF inválido.'], 400);
+        }
+
         $evento->update($request->all());
         return $evento;
     }
