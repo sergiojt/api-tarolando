@@ -24,6 +24,7 @@ class AuthController extends Controller
             $user->name = (string) $request->name;
             $user->email = (string) $request->email;
             $user->google_id = $request->id;
+            $user->imagem = $request->photo;
 
             $user->save();
 
