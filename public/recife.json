@@ -1,0 +1,362 @@
+[
+  {
+    "nome": "Real Botequim",
+    "descricao": "Real Botequim, localizado em Av. Dezessete de Agosto, 1761 - Casa Forte, Recife - PE, 52061-900, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Dezessete de Agosto, 1761 - Casa Forte, Recife - PE, 52061-900, Brasil",
+    "cidade": "recife",
+    "latitude": -8.033616999999998,
+    "longitude": -34.9228489,
+    "horario": [
+      "segunda-feira: 17:00 – 00:00",
+      "terça-feira: 17:00 – 00:00",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 00:00",
+      "sexta-feira: 15:00 – 00:00",
+      "sábado: 11:00 – 00:00",
+      "domingo: 11:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Empório Sertanejo o Bode da Hora",
+    "descricao": "A culinária caseira do interior e costa nordestina, em amplo ambiente despretensioso com sacada coberta.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. da Hora, 34 - Espinheiro, Recife - PE, 52020-010, Brasil",
+    "cidade": "recife",
+    "latitude": -8.042180599999998,
+    "longitude": -34.89137479999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 11:00 – 03:00",
+      "quinta-feira: 11:00 – 03:00",
+      "sexta-feira: 11:00 – 03:00",
+      "sábado: 11:00 – 03:00",
+      "domingo: 11:00 – 03:00"
+    ]
+  },
+  {
+    "nome": "Bodega de Véio - Recife Antigo",
+    "descricao": "Bodega de Véio - Recife Antigo, localizado em R. Mariz e Barros, 328 - Recife, PE, 50030-120, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Mariz e Barros, 328 - Recife, PE, 50030-120, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0628345,
+    "longitude": -34.8730428,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 23:00",
+      "quarta-feira: 10:00 – 23:00",
+      "quinta-feira: 10:00 – 23:00",
+      "sexta-feira: 10:00 – 23:00",
+      "sábado: 10:00 – 23:00",
+      "domingo: 10:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Seu Pêu Gastropub",
+    "descricao": "Restobar convidativo de temas rústicos descolados e com sacada coberta tem cozinha apurada de opções da casa.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Carneiro Viléla, 665 - Aflitos, Recife - PE, 52050-030, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0381293,
+    "longitude": -34.8979112,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 17:00 – 00:00",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 00:00",
+      "sexta-feira: 17:00 – 00:00",
+      "sábado: 11:00 – 00:00",
+      "domingo: 11:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Burburinho Recifebar",
+    "descricao": "Burburinho Recifebar, localizado em R. Vig. Tenório, 185 - Recife, PE, 50030-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Vig. Tenório, 185 - Recife, PE, 50030-010, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0640438,
+    "longitude": -34.8731467,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 15:00 – 02:00",
+      "domingo: 15:00 – 02:00"
+    ]
+  },
+  {
+    "nome": "Conchittas Bar",
+    "descricao": "Um boteco descontraído e simples serve porções mistas tradicionais e coquetéis com a galera pela calçada.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Manoel Borba, 709 - Boa Vista, Recife - PE, 50070-045, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0593345,
+    "longitude": -34.8917004,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 19:00 – 03:00",
+      "quinta-feira: 19:00 – 03:00",
+      "sexta-feira: 19:00 – 05:00",
+      "sábado: 19:00 – 05:00",
+      "domingo: 18:00 – 03:00"
+    ]
+  },
+  {
+    "nome": "Seu Boteco",
+    "descricao": "Tapas e frutos do mar, além de cervejas e caipirinhas, em bar e restaurante contemporâneo e descontraído.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Alfredo Lisboa, s/n - Recife, PE, 50030-150, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0636873,
+    "longitude": -34.87139569999999,
+    "horario": [
+      "segunda-feira: 11:30 – 23:30",
+      "terça-feira: 11:30 – 23:30",
+      "quarta-feira: 11:30 – 23:30",
+      "quinta-feira: 11:30 – 23:30",
+      "sexta-feira: 11:30 – 23:30",
+      "sábado: 11:30 – 01:00",
+      "domingo: 11:30 – 01:00"
+    ]
+  },
+  {
+    "nome": "Liamba",
+    "descricao": "Liamba, localizado em R. Fernando Lopes, 78 - Graças, Recife - PE, 52011-220, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Fernando Lopes, 78 - Graças, Recife - PE, 52011-220, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0522867,
+    "longitude": -34.90292729999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 19:00 – 02:00",
+      "quinta-feira: 19:00 – 02:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 17:00 – 03:00",
+      "domingo: 19:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Cais Rooftop Lounge Bar",
+    "descricao": "Restaurante tranquilo com coquetéis, porções pequenas e pratos internacionais, além de vista para o mar.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Alfredo Lisboa, 04 - Recife, PE, 50030-150, Brasil",
+    "cidade": "recife",
+    "latitude": -8.061013599999999,
+    "longitude": -34.8702363,
+    "horario": [
+      "segunda-feira: 12:00 – 00:00",
+      "terça-feira: 12:00 – 00:00",
+      "quarta-feira: 12:00 – 00:00",
+      "quinta-feira: 12:00 – 01:00",
+      "sexta-feira: 12:00 – 01:00",
+      "sábado: 12:00 – 01:00",
+      "domingo: 12:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "Bar Zero Um",
+    "descricao": "Botequim descontraído e acolhedor com mesas na calçada, porções mistas e pratos regionais do dia à la carte.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Tomazina, 129 - Recife, PE, 50030-020, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0643247,
+    "longitude": -34.87333269999999,
+    "horario": [
+      "segunda-feira: 11:00 – 15:00",
+      "terça-feira: 11:00 – 15:00, 18:00 – 00:00",
+      "quarta-feira: 11:00 – 15:00, 18:00 – 00:00",
+      "quinta-feira: 11:00 – 15:00, 18:00 – 00:00",
+      "sexta-feira: 11:00 – 15:00, 18:00 – 04:00",
+      "sábado: 18:00 – 04:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Bar do Cuscuz",
+    "descricao": "Bar espaçoso com clima casual que oferece refeições tradicionais de taverna e conta com TVs.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Fernando Simões Barbosa, 170 - Boa Viagem, Recife - PE, 51020-390, Brasil",
+    "cidade": "recife",
+    "latitude": -8.1189584,
+    "longitude": -34.9014259,
+    "horario": [
+      "segunda-feira: 11:00 – 01:00",
+      "terça-feira: 11:00 – 01:00",
+      "quarta-feira: 11:00 – 01:00",
+      "quinta-feira: 11:00 – 01:00",
+      "sexta-feira: 11:00 – 02:00",
+      "sábado: 11:00 – 02:00",
+      "domingo: 11:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Boteco Ferro & Fogo",
+    "descricao": "Boteco Ferro & Fogo, localizado em Estr. do Encanamento, 1400 - Casa Forte, Recife - PE, 52070-230, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Estr. do Encanamento, 1400 - Casa Forte, Recife - PE, 52070-230, Brasil",
+    "cidade": "recife",
+    "latitude": -8.029187,
+    "longitude": -34.9223734,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 00:00",
+      "sexta-feira: 17:00 – 00:00",
+      "sábado: 12:00 – 00:00",
+      "domingo: 12:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Lisbela e Prisioneiros Bar",
+    "descricao": "Boemia de rua descontraída e despojada com noites musicais nostálgicas de discos de vinil e cozinha de boteco.",
+    "estilo": "🍻 Bar",
+    "endereco": "Largo da Santa Cruz, 438 - Boa Vista, Recife - PE, 50060-230, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0619559,
+    "longitude": -34.88777939999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 16:00 – 00:00",
+      "quarta-feira: 16:00 – 00:00",
+      "quinta-feira: 16:00 – 00:00",
+      "sexta-feira: 16:00 – 01:00",
+      "sábado: 15:00 – 01:00",
+      "domingo: 15:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Cia do Chopp",
+    "descricao": "Restaurante casual tradicional com carne e frutos do mar regionais e portugueses, além de petiscos.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Conselheiro Aguiar, 2775 - Boa Viagem, Recife - PE, 51020-020, Brasil",
+    "cidade": "recife",
+    "latitude": -8.113703700000002,
+    "longitude": -34.892771,
+    "horario": [
+      "segunda-feira: 11:00 – 23:00",
+      "terça-feira: 11:00 – 23:00",
+      "quarta-feira: 11:00 – 23:00",
+      "quinta-feira: 11:00 – 01:00",
+      "sexta-feira: 11:00 – 01:00",
+      "sábado: 11:00 – 01:00",
+      "domingo: 11:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "Bar do Tonhão",
+    "descricao": "Bar do Tonhão, localizado em R. Amaro Coutinho, 339 - Encruzilhada, Recife - PE, 52041-160, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Amaro Coutinho, 339 - Encruzilhada, Recife - PE, 52041-160, Brasil",
+    "cidade": "recife",
+    "latitude": -8.035087599999999,
+    "longitude": -34.8935696,
+    "horario": [
+      "segunda-feira: 11:00 – 22:00",
+      "terça-feira: 11:00 – 22:00",
+      "quarta-feira: 11:00 – 22:00",
+      "quinta-feira: 11:00 – 22:00",
+      "sexta-feira: 11:00 – 22:00",
+      "sábado: 10:00 – 22:00",
+      "domingo: 11:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Tatu Bola Bar",
+    "descricao": "Tatu Bola Bar, localizado em Av. Herculano Bandeira, 21 - Pina, Recife - PE, 51011-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Herculano Bandeira, 21 - Pina, Recife - PE, 51011-000, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0916027,
+    "longitude": -34.88229269999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 00:00",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 01:00",
+      "sábado: 12:00 – 00:00",
+      "domingo: 12:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Beerdock Boa Viagem",
+    "descricao": "Variedade de cervejas e chopes artesanais, petiscos para harmonizar, vista para a cidade e atmosfera rústica.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Professor Eduardo Wanderley Filho, 242 - Boa Viagem, Recife - PE, 51020-170, Brasil",
+    "cidade": "recife",
+    "latitude": -8.1111516,
+    "longitude": -34.89411030000001,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 17:00 – 23:00",
+      "quarta-feira: 17:00 – 01:00",
+      "quinta-feira: 17:00 – 02:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 17:00 – 02:00",
+      "domingo: 17:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Barzinho Music Bar",
+    "descricao": "Ponto de encontro rústico e descontraído com programação variada de música, além de caipirinhas e tira-gostos.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Jacob, 31 - Bomba do Hemetério, Recife - PE, 52111-040, Brasil",
+    "cidade": "recife",
+    "latitude": -8.023835499999999,
+    "longitude": -34.89830859999999,
+    "horario": [
+      "segunda-feira: 18:00 – 02:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 02:00",
+      "sábado: 18:00 – 02:00",
+      "domingo: 18:00 – 02:00"
+    ]
+  },
+  {
+    "nome": "Ursa Bar",
+    "descricao": "Gastronomia seleta e autoral com coquetéis chamativos em ambiente acolhedor estiloso com mezanino intimista.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Quarenta e Oito, 197 - Espinheiro, Recife - PE, 52020-060, Brasil",
+    "cidade": "recife",
+    "latitude": -8.0436341,
+    "longitude": -34.8913892,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 19:00 – 00:00",
+      "quarta-feira: 19:00 – 00:00",
+      "quinta-feira: 19:00 – 00:00",
+      "sexta-feira: 18:00 – 02:00",
+      "sábado: 18:00 – 02:00",
+      "domingo: 18:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Marcello's Music Bar",
+    "descricao": "Marcello's Music Bar, localizado em R. Bom Conselho, 40 - Arruda, Recife - PE, 52120-200, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Bom Conselho, 40 - Arruda, Recife - PE, 52120-200, Brasil",
+    "cidade": "recife",
+    "latitude": -8.024671699999999,
+    "longitude": -34.89215009999999,
+    "horario": [
+      "segunda-feira: 18:00 – 04:00",
+      "terça-feira: 18:00 – 00:00",
+      "quarta-feira: Atendimento 24 horas",
+      "quinta-feira: 18:00 – 03:30",
+      "sexta-feira: 18:00 – 03:30",
+      "sábado: 18:00 – 03:30",
+      "domingo: 18:00 – 03:30"
+    ]
+  }
+]

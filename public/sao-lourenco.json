@@ -1,0 +1,346 @@
+[
+  {
+    "nome": "Caldinho do Rina",
+    "descricao": "Caldinho do Rina, localizado em R. Dr. Pedro Augusto Correa de Araújo, 02 - Centro, São Lourenço da Mata - PE, 54735-110, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Dr. Pedro Augusto Correa de Araújo, 02 - Centro, São Lourenço da Mata - PE, 54735-110, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.994970400000001,
+    "longitude": -35.0379246,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 17:00 – 02:00",
+      "quarta-feira: 17:00 – 02:00",
+      "quinta-feira: 17:00 – 02:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 17:00 – 02:00",
+      "domingo: 17:00 – 02:00"
+    ]
+  },
+  {
+    "nome": "Bar do Bel",
+    "descricao": "Bar do Bel, localizado em R. Pres. Getúlio Vargas - Parque Capibaribe, São Lourenço da Mata - PE, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Pres. Getúlio Vargas - Parque Capibaribe, São Lourenço da Mata - PE, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.017723300000002,
+    "longitude": -35.03858819999999,
+    "horario": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 20:00",
+      "quinta-feira: 10:00 – 20:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 10:00 – 20:00",
+      "domingo: 10:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Bafo tabacaria",
+    "descricao": "Bafo tabacaria, localizado em R. João Teixeira, 98 - Centro, São Lourenço da Mata - PE, 54735-320, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. João Teixeira, 98 - Centro, São Lourenço da Mata - PE, 54735-320, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.997184000000001,
+    "longitude": -35.0398722,
+    "horario": []
+  },
+  {
+    "nome": "Panela Cheia Bar",
+    "descricao": "Panela Cheia Bar, localizado em R. Dr. Pedro Augusto Correa de Araújo, 365 - Centro, São Lourenço da Mata - PE, 54735-110, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Dr. Pedro Augusto Correa de Araújo, 365 - Centro, São Lourenço da Mata - PE, 54735-110, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.994860999999999,
+    "longitude": -35.03776089999999,
+    "horario": [
+      "segunda-feira: 08:00 – 20:00",
+      "terça-feira: 08:00 – 20:00",
+      "quarta-feira: 08:00 – 20:00",
+      "quinta-feira: 08:00 – 20:00",
+      "sexta-feira: 08:00 – 20:00",
+      "sábado: 08:00 – 20:00",
+      "domingo: 08:00 – 19:00"
+    ]
+  },
+  {
+    "nome": "Alexandre's Pub",
+    "descricao": "Alexandre's Pub, localizado em R. Agamenon Magalhães, 163 - Centro, São Lourenço da Mata - PE, 54735-805, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Agamenon Magalhães, 163 - Centro, São Lourenço da Mata - PE, 54735-805, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.998661299999999,
+    "longitude": -35.04279119999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: Fechado",
+      "sábado: Atendimento 24 horas",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Barzinho Entre Amigos",
+    "descricao": "Barzinho Entre Amigos, localizado em R. Verdejante - Pixete, São Lourenço da Mata - PE, 54725-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Verdejante - Pixete, São Lourenço da Mata - PE, 54725-010, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.9916289,
+    "longitude": -35.0478727,
+    "horario": []
+  },
+  {
+    "nome": "SPETTORIA PETISCARIA CASUAL",
+    "descricao": "SPETTORIA PETISCARIA CASUAL, localizado em Estr. do Tip, 54 - Muribara, São Lourenço da Mata - PE, 54720-675, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Estr. do Tip, 54 - Muribara, São Lourenço da Mata - PE, 54720-675, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.000620699999999,
+    "longitude": -35.0391541,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 14:00 – 22:00",
+      "quarta-feira: 14:00 – 22:00",
+      "quinta-feira: 14:00 – 22:00",
+      "sexta-feira: 14:00 – 22:00",
+      "sábado: 14:00 – 22:00",
+      "domingo: 14:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Sagatiba Bar",
+    "descricao": "Sagatiba Bar, localizado em Box 07 - R. Dr. Otávio Coutinho - Centro, São Lourenço da Mata - PE, 54730-725, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Box 07 - R. Dr. Otávio Coutinho - Centro, São Lourenço da Mata - PE, 54730-725, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.9987527,
+    "longitude": -35.04124159999999,
+    "horario": [
+      "segunda-feira: 07:30 – 21:30",
+      "terça-feira: 07:30 – 21:30",
+      "quarta-feira: 07:30 – 21:30",
+      "quinta-feira: 07:30 – 21:30",
+      "sexta-feira: 07:30 – 21:30",
+      "sábado: 07:30 – 21:30",
+      "domingo: 09:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Bar e Restaurante Casa de Farinha",
+    "descricao": "Bar e Restaurante Casa de Farinha, localizado em BR-408, 29 - São Lourenço da Mata, PE, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "BR-408, 29 - São Lourenço da Mata, PE, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.0141577,
+    "longitude": -35.0425359,
+    "horario": [
+      "segunda-feira: 11:00 – 16:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 11:00 – 16:00",
+      "quinta-feira: 11:00 – 16:00",
+      "sexta-feira: 11:00 – 16:00",
+      "sábado: 11:00 – 16:00",
+      "domingo: 11:00 – 16:00"
+    ]
+  },
+  {
+    "nome": "Bar Da Ceu",
+    "descricao": "Bar Da Ceu, localizado em Rua Barão de Caruarú, 516-658 - Muribara, São Lourenço da Mata - PE, 54720-350, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Barão de Caruarú, 516-658 - Muribara, São Lourenço da Mata - PE, 54720-350, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.001569,
+    "longitude": -35.0465307,
+    "horario": [
+      "segunda-feira: 09:00 – 20:00",
+      "terça-feira: 09:00 – 20:00",
+      "quarta-feira: 09:00 – 20:00",
+      "quinta-feira: 09:00 – 20:00",
+      "sexta-feira: 09:00 – 20:00",
+      "sábado: 09:00 – 20:00",
+      "domingo: 09:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Boteco do Lipão",
+    "descricao": "Boteco do Lipão, localizado em Av. Cláudio Alves de Souza, 75 - Parque Capibaribe, São Lourenço da Mata - PE, 54720-005, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Cláudio Alves de Souza, 75 - Parque Capibaribe, São Lourenço da Mata - PE, 54720-005, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.004918700000001,
+    "longitude": -35.0391829,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 04:00",
+      "quarta-feira: 18:00 – 02:00",
+      "quinta-feira: 18:00 – 02:00",
+      "sexta-feira: 18:00 – 04:00",
+      "sábado: 18:00 – 04:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Bar de Edilene",
+    "descricao": "Bar de Edilene, localizado em Av. Pref. Mario Henrique Mafra, 339 - Parque Capibaribe, São Lourenço da Mata - PE, 54720-001, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Pref. Mario Henrique Mafra, 339 - Parque Capibaribe, São Lourenço da Mata - PE, 54720-001, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.001666700000001,
+    "longitude": -35.0388889,
+    "horario": [
+      "segunda-feira: 10:00 – 23:00",
+      "terça-feira: 10:00 – 23:00",
+      "quarta-feira: 10:00 – 23:00",
+      "quinta-feira: 10:00 – 23:00",
+      "sexta-feira: 10:00 – 23:00",
+      "sábado: 10:00 – 23:00",
+      "domingo: 10:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "Belisco's Bistrô Café",
+    "descricao": "Belisco's Bistrô Café, localizado em Rua Dez de Janeiro, 102 - Centro, São Lourenço da Mata - PE, 54735-230, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Dez de Janeiro, 102 - Centro, São Lourenço da Mata - PE, 54735-230, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.996693100000001,
+    "longitude": -35.0388565,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 16:00 – 23:00",
+      "quarta-feira: 16:00 – 23:00",
+      "quinta-feira: 16:00 – 23:00",
+      "sexta-feira: 16:00 – 23:00",
+      "sábado: 16:00 – 23:00",
+      "domingo: 08:00 – 11:30, 16:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Recanto do Toinho",
+    "descricao": "Recanto do Toinho, localizado em Av. Dr. Belmino Correia, 65 - Capibaribe, São Lourenço da Mata - PE, 54705-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Dr. Belmino Correia, 65 - Capibaribe, São Lourenço da Mata - PE, 54705-000, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.001863799999999,
+    "longitude": -35.0287715,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 09:00 – 18:00",
+      "quarta-feira: 09:00 – 18:00",
+      "quinta-feira: 09:00 – 18:00",
+      "sexta-feira: 09:00 – 18:00",
+      "sábado: 09:00 – 18:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Bar da Piscina",
+    "descricao": "Bar da Piscina, localizado em Bar da Piscina - Chã da Tábua, São Lourenço da Mata - PE, 54735-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Bar da Piscina - Chã da Tábua, São Lourenço da Mata - PE, 54735-010, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.983765699999999,
+    "longitude": -35.0253785,
+    "horario": [
+      "segunda-feira: 08:30 – 17:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 08:30 – 17:00",
+      "quinta-feira: 08:30 – 17:00",
+      "sexta-feira: Atendimento 24 horas",
+      "sábado: 08:30 – 18:00",
+      "domingo: 08:30 – 17:00"
+    ]
+  },
+  {
+    "nome": "O Quintal Galeteria e Pizzaria",
+    "descricao": "O Quintal Galeteria e Pizzaria, localizado em Av. Miguel Labanca, 30 - Centro, São Lourenço da Mata - PE, 54735-430, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Miguel Labanca, 30 - Centro, São Lourenço da Mata - PE, 54735-430, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.9922764,
+    "longitude": -35.0441438,
+    "horario": [
+      "segunda-feira: 11:00 – 23:00",
+      "terça-feira: 11:00 – 23:00",
+      "quarta-feira: 11:00 – 23:00",
+      "quinta-feira: 11:00 – 23:00",
+      "sexta-feira: 11:00 – 23:00",
+      "sábado: 11:00 – 23:00",
+      "domingo: 11:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "Nosso Boteco - Bar E Petiscaria",
+    "descricao": "Nosso Boteco - Bar E Petiscaria, localizado em Dom de - R. Dr. Pedro Augusto Correa de Araújo - Chã da Tábua, São Lourenço da Mata - PE, 54735-100, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Dom de - R. Dr. Pedro Augusto Correa de Araújo - Chã da Tábua, São Lourenço da Mata - PE, 54735-100, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.994773999999999,
+    "longitude": -35.0378122,
+    "horario": [
+      "segunda-feira: 12:30 – 19:00",
+      "terça-feira: 13:30 – 22:00",
+      "quarta-feira: 11:00 – 22:00",
+      "quinta-feira: 11:00 – 22:00",
+      "sexta-feira: 11:00 – 22:00",
+      "sábado: 11:00 – 22:00",
+      "domingo: 11:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Buteco Da Lage",
+    "descricao": "Buteco Da Lage, localizado em R. Eulina - Capibaribe, São Lourenço da Mata - PE, 54740-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Eulina - Capibaribe, São Lourenço da Mata - PE, 54740-000, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.001201999999997,
+    "longitude": -35.0269364,
+    "horario": [
+      "segunda-feira: 10:00 – 23:00",
+      "terça-feira: 10:00 – 23:00",
+      "quarta-feira: 10:00 – 23:00",
+      "quinta-feira: 10:00 – 23:00",
+      "sexta-feira: 10:00 – 23:00",
+      "sábado: 10:00 – 23:00",
+      "domingo: 10:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "Almirante - Restaurante, Pizzaria & Bar",
+    "descricao": "Almirante - Restaurante, Pizzaria & Bar, localizado em R. Alm. Tamandaré, 194 - Centro, São Lourenço da Mata - PE, 54735-420, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Alm. Tamandaré, 194 - Centro, São Lourenço da Mata - PE, 54735-420, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -7.9919567,
+    "longitude": -35.04279119999999,
+    "horario": [
+      "segunda-feira: 11:30 – 15:00",
+      "terça-feira: 11:30 – 15:00",
+      "quarta-feira: 11:30 – 00:00",
+      "quinta-feira: 11:30 – 00:00",
+      "sexta-feira: 11:30 – 00:00",
+      "sábado: 11:30 – 00:00",
+      "domingo: 11:30 – 00:00"
+    ]
+  },
+  {
+    "nome": "Restaurante Bode do Mundinho",
+    "descricao": "Restaurante Bode do Mundinho, localizado em BR-408, 2500 - Penedo, São Lourenço da Mata - PE, 54710-840, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "BR-408, 2500 - Penedo, São Lourenço da Mata - PE, 54710-840, Brasil",
+    "cidade": "são lourenço da mata",
+    "latitude": -8.048663099999999,
+    "longitude": -35.00838469999999,
+    "horario": [
+      "segunda-feira: 08:00 – 17:00",
+      "terça-feira: 08:00 – 17:00",
+      "quarta-feira: 08:00 – 17:00",
+      "quinta-feira: 08:00 – 17:00",
+      "sexta-feira: 08:00 – 17:00",
+      "sábado: 08:00 – 17:00",
+      "domingo: 08:00 – 17:00"
+    ]
+  }
+]

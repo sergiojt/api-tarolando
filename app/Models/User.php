@@ -23,6 +23,9 @@ class User extends Authenticatable
         'google_id',
         'termo',
         'imagem',
+        'localizacao',
+        'aniversario',
+        'bio',
     ];
 
     /**
@@ -54,5 +57,10 @@ class User extends Authenticatable
     public function checkins()
     {
         return $this->belongsToMany(Evento::class, 'checkin_eventos')->withTimestamps();
+    }
+
+    public function amigos()
+    {
+        return $this->hasMany(Amigo::class, 'user_id');
     }
 }

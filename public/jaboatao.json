@@ -1,0 +1,354 @@
+[
+  {
+    "nome": "Betos Bar",
+    "descricao": "Bar informal com pizzas, sushis e petiscos generosos, além de happy hour diário com música ao vivo.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Bernardo Vieira de Melo, 4738 - Candeias, Jaboatão dos Guararapes - PE, 54440-620, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1957893,
+    "longitude": -34.91923140000001,
+    "horario": [
+      "segunda-feira: 11:00 – 01:00",
+      "terça-feira: 11:00 – 01:00",
+      "quarta-feira: 11:00 – 01:00",
+      "quinta-feira: 11:00 – 01:00",
+      "sexta-feira: 11:00 – 01:00",
+      "sábado: 11:00 – 01:00",
+      "domingo: 11:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Restaurante Du Maranhão",
+    "descricao": "Culinária tradicional e variada com menu repleto de opções, em galpão despojado e amplo com espaço infantil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Bernardo Vieira de Melo, 4993 - Candeias, Jaboatão dos Guararapes - PE, 54450-020, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1984824,
+    "longitude": -34.9182738,
+    "horario": [
+      "segunda-feira: 11:00 – 00:00",
+      "terça-feira: 11:00 – 00:00",
+      "quarta-feira: 11:00 – 00:00",
+      "quinta-feira: 11:00 – 00:00",
+      "sexta-feira: 11:00 – 01:00",
+      "sábado: 11:00 – 01:00",
+      "domingo: 11:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Pedrito's Bar",
+    "descricao": "Cozinha popular de especialidades feitas com caranguejo, com guarnições regionais, em espaço aberto e simples.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Pres. Castelo Branco - Candeias, Jaboatão dos Guararapes - PE, 54440-055, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.2155721,
+    "longitude": -34.92236869999999,
+    "horario": [
+      "segunda-feira: 11:00 – 15:30",
+      "terça-feira: 11:00 – 15:30",
+      "quarta-feira: 11:00 – 16:00",
+      "quinta-feira: 11:00 – 16:00",
+      "sexta-feira: 11:00 – 16:30",
+      "sábado: 11:00 – 17:00",
+      "domingo: 11:00 – 16:30"
+    ]
+  },
+  {
+    "nome": "Meu Bar Candeias",
+    "descricao": "Meu Bar Candeias, localizado em Av. Bernardo Vieira de Melo, 4981 - Candeias, Jaboatão dos Guararapes - PE, 54450-020, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Bernardo Vieira de Melo, 4981 - Candeias, Jaboatão dos Guararapes - PE, 54450-020, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.196477699999999,
+    "longitude": -34.9187446,
+    "horario": [
+      "segunda-feira: 11:00 – 00:00",
+      "terça-feira: 11:00 – 00:00",
+      "quarta-feira: 11:00 – 00:00",
+      "quinta-feira: 11:00 – 00:00",
+      "sexta-feira: 11:00 – 02:00",
+      "sábado: 11:00 – 02:00",
+      "domingo: 11:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Boteco Terraço",
+    "descricao": "Boteco Terraço, localizado em Av. Pres. Castelo Branco, 5610 - Candeias, Jaboatão dos Guararapes - PE, 54440-050, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Pres. Castelo Branco, 5610 - Candeias, Jaboatão dos Guararapes - PE, 54440-050, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.208156099999998,
+    "longitude": -34.9200793,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 15:00 – 03:00",
+      "domingo: 15:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Píer 112 Bar e Restaurante",
+    "descricao": "Píer 112 Bar e Restaurante, localizado em R. Soure, 196a - Paiva, Jaboatão dos Guararapes - PE, 54470-430, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Soure, 196a - Paiva, Jaboatão dos Guararapes - PE, 54470-430, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.2302527,
+    "longitude": -34.93374530000001,
+    "horario": [
+      "segunda-feira: 10:00 – 17:00",
+      "terça-feira: 10:00 – 17:00",
+      "quarta-feira: Fechado",
+      "quinta-feira: 10:00 – 17:00",
+      "sexta-feira: 10:00 – 18:00",
+      "sábado: 10:00 – 20:00",
+      "domingo: 10:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "D'Bob bar e restaurante",
+    "descricao": "D'Bob bar e restaurante, localizado em Av. Beira Mar, 5318 - Candeias, Jaboatão dos Guararapes - PE, 54440-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Beira Mar, 5318 - Candeias, Jaboatão dos Guararapes - PE, 54440-000, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.202639099999997,
+    "longitude": -34.9168137,
+    "horario": [
+      "segunda-feira: 09:00 – 18:00",
+      "terça-feira: 09:00 – 18:00",
+      "quarta-feira: 09:00 – 18:00",
+      "quinta-feira: 09:00 – 18:00",
+      "sexta-feira: 09:00 – 18:00",
+      "sábado: 09:00 – 18:00",
+      "domingo: 09:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Bar da Galinha",
+    "descricao": "Bar da Galinha, localizado em Av. Bernardo V. de Melo, 6355 Frente para o mar - Candeias, Jaboatão dos Guararapes - PE, 54450-020, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Bernardo V. de Melo, 6355 Frente para o mar - Candeias, Jaboatão dos Guararapes - PE, 54450-020, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.211976800000002,
+    "longitude": -34.9189209,
+    "horario": [
+      "segunda-feira: 10:00 – 20:00",
+      "terça-feira: 10:00 – 20:00",
+      "quarta-feira: 10:00 – 22:00",
+      "quinta-feira: 10:00 – 22:00",
+      "sexta-feira: 10:00 – 22:00",
+      "sábado: 10:00 – 22:00",
+      "domingo: 10:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Bar do Zezinho",
+    "descricao": "Comida caseira, incluindo frutos do mar e carnes, mais cervejas e cachaças, em ambiente rústico e arejado.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Professor Sílvio Rabelo, 852 - Candeias, Jaboatão dos Guararapes - PE, 54440-290, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.197876899999999,
+    "longitude": -34.92124560000001,
+    "horario": [
+      "segunda-feira: 11:00 – 21:00",
+      "terça-feira: 11:00 – 21:00",
+      "quarta-feira: 11:00 – 21:00",
+      "quinta-feira: 11:00 – 22:00",
+      "sexta-feira: 11:00 – 22:00",
+      "sábado: 11:00 – 22:00",
+      "domingo: 11:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Nilson Bar Esportes",
+    "descricao": "Nilson Bar Esportes, localizado em R. Rosa Amélia da Paz, 210B - Piedade, Jaboatão dos Guararapes - PE, 54410-350, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Rosa Amélia da Paz, 210B - Piedade, Jaboatão dos Guararapes - PE, 54410-350, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1739758,
+    "longitude": -34.9200987,
+    "horario": [
+      "segunda-feira: 11:00 – 22:00",
+      "terça-feira: 11:00 – 22:00",
+      "quarta-feira: 11:00 – 22:00",
+      "quinta-feira: 11:00 – 22:00",
+      "sexta-feira: 10:00 – 00:00",
+      "sábado: 09:00 – 00:00",
+      "domingo: 09:00 – 21:30"
+    ]
+  },
+  {
+    "nome": "Seu Berna - Candeias",
+    "descricao": "Seu Berna - Candeias, localizado em Av. Bernardo Vieira de Melo, 1350 - Candeias, Jaboatão dos Guararapes - PE, 54440-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Bernardo Vieira de Melo, 1350 - Candeias, Jaboatão dos Guararapes - PE, 54440-000, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.192416600000001,
+    "longitude": -34.9192982,
+    "horario": [
+      "segunda-feira: 17:00 – 01:00",
+      "terça-feira: 17:00 – 01:00",
+      "quarta-feira: 17:00 – 01:00",
+      "quinta-feira: 17:00 – 01:00",
+      "sexta-feira: 17:00 – 03:00",
+      "sábado: 16:00 – 03:00",
+      "domingo: 14:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Nego Bar",
+    "descricao": "Nego Bar, localizado em Rua Coronel Waldemar Basgal, 59 - Piedade, Jaboatão dos Guararapes - PE, 54400-170, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Coronel Waldemar Basgal, 59 - Piedade, Jaboatão dos Guararapes - PE, 54400-170, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1632009,
+    "longitude": -34.91748930000001,
+    "horario": [
+      "segunda-feira: 09:00 – 00:00",
+      "terça-feira: 09:00 – 00:00",
+      "quarta-feira: 09:00 – 00:00",
+      "quinta-feira: 09:00 – 00:00",
+      "sexta-feira: 09:00 – 00:00",
+      "sábado: 09:00 – 00:00",
+      "domingo: 09:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Bar das pedrinhas",
+    "descricao": "Bar das pedrinhas, localizado em R. São Sebastião, 1152 - Piedade, Jaboatão dos Guararapes - PE, 54330-835, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. São Sebastião, 1152 - Piedade, Jaboatão dos Guararapes - PE, 54330-835, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1811989,
+    "longitude": -34.9310349,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 22:30",
+      "quarta-feira: 18:00 – 23:00",
+      "quinta-feira: 18:00 – 23:00",
+      "sexta-feira: 17:30 – 00:00",
+      "sábado: 17:30 – 00:00",
+      "domingo: 17:30 – 00:00"
+    ]
+  },
+  {
+    "nome": "Caricatura Restaurante e Bar",
+    "descricao": "Caricatura Restaurante e Bar, localizado em R. Antônio Carlos de Oliveira, 151 - Candeias, Jaboatão dos Guararapes - PE, 54440-351, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Antônio Carlos de Oliveira, 151 - Candeias, Jaboatão dos Guararapes - PE, 54440-351, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.2060432,
+    "longitude": -34.9183719,
+    "horario": [
+      "segunda-feira: 11:30 – 00:00",
+      "terça-feira: 11:30 – 00:00",
+      "quarta-feira: 11:30 – 00:00",
+      "quinta-feira: 11:30 – 00:00",
+      "sexta-feira: 11:30 – 01:00",
+      "sábado: 11:30 – 01:00",
+      "domingo: 11:30 – 00:00"
+    ]
+  },
+  {
+    "nome": "Bar da Mangueira",
+    "descricao": "Bar da Mangueira, localizado em Av. Agamenon Magalhães, 887 - Prazeres, Jaboatão dos Guararapes - PE, 54210-420, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Agamenon Magalhães, 887 - Prazeres, Jaboatão dos Guararapes - PE, 54210-420, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1566765,
+    "longitude": -34.9203791,
+    "horario": []
+  },
+  {
+    "nome": "Bar do Cabeça",
+    "descricao": "Bar do Cabeça, localizado em R. Andaraí, 391 - Piedade, Jaboatão dos Guararapes - PE, 54420-100, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Andaraí, 391 - Piedade, Jaboatão dos Guararapes - PE, 54420-100, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.185646399999998,
+    "longitude": -34.9259661,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 11:00 – 00:00",
+      "quarta-feira: 11:00 – 00:00",
+      "quinta-feira: 11:00 – 00:00",
+      "sexta-feira: 11:00 – 00:00",
+      "sábado: 11:00 – 00:00",
+      "domingo: 11:00 – 17:00"
+    ]
+  },
+  {
+    "nome": "SupBar Candeias Beach",
+    "descricao": "SupBar Candeias Beach, localizado em R. Antônio Carlos de Oliveira, 5666 - Candeias, Jaboatão dos Guararapes - PE, 54440-351, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Antônio Carlos de Oliveira, 5666 - Candeias, Jaboatão dos Guararapes - PE, 54440-351, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.206052699999999,
+    "longitude": -34.917224,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 09:00 – 17:00",
+      "quarta-feira: 09:00 – 17:30",
+      "quinta-feira: 09:00 – 17:30",
+      "sexta-feira: 09:00 – 17:30",
+      "sábado: 09:00 – 17:30",
+      "domingo: 09:00 – 17:30"
+    ]
+  },
+  {
+    "nome": "Armazém Central",
+    "descricao": "Bar e restaurante com variedade de porções de bolinhos e pastéis, comida sertaneja, cervejas e clima simples.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Barreto de Menezes, 800 - 210/211 - Piedade, Jaboatão dos Guararapes - PE, 54325-000, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1671222,
+    "longitude": -34.919156,
+    "horario": [
+      "segunda-feira: 09:00 – 22:00",
+      "terça-feira: 09:00 – 22:00",
+      "quarta-feira: 09:00 – 22:00",
+      "quinta-feira: 09:00 – 22:00",
+      "sexta-feira: 09:00 – 22:00",
+      "sábado: 09:00 – 22:00",
+      "domingo: 12:00 – 21:00"
+    ]
+  },
+  {
+    "nome": "Terraço Bar",
+    "descricao": "Terraço Bar, localizado em R. Hidrolândia, 50 - Piedade, Jaboatão dos Guararapes - PE, 54420-160, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Hidrolândia, 50 - Piedade, Jaboatão dos Guararapes - PE, 54420-160, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1839639,
+    "longitude": -34.9263235,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 01:00",
+      "quarta-feira: 18:00 – 01:00",
+      "quinta-feira: 18:00 – 01:00",
+      "sexta-feira: 18:00 – 01:00",
+      "sábado: 16:00 – 01:00",
+      "domingo: 16:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Point da Fava",
+    "descricao": "Point da Fava, localizado em R. Santa Mônica, 630 - Cajueiro Seco, Jaboatão dos Guararapes - PE, 54330-570, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Santa Mônica, 630 - Cajueiro Seco, Jaboatão dos Guararapes - PE, 54330-570, Brasil",
+    "cidade": "jaboatão",
+    "latitude": -8.1697107,
+    "longitude": -34.9340522,
+    "horario": [
+      "segunda-feira: 10:00 – 22:00",
+      "terça-feira: 10:00 – 22:00",
+      "quarta-feira: 10:00 – 22:00",
+      "quinta-feira: 10:00 – 22:00",
+      "sexta-feira: 11:00 – 23:30",
+      "sábado: 11:00 – 23:30",
+      "domingo: 11:00 – 20:00"
+    ]
+  }
+]

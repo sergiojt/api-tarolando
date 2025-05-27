@@ -1,0 +1,354 @@
+[
+  {
+    "nome": "Manny Deck Bar",
+    "descricao": "Manny Deck Bar, localizado em R. do Sol, 468 - Carmo, Olinda - PE, 53120-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. do Sol, 468 - Carmo, Olinda - PE, 53120-000, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.014135599999998,
+    "longitude": -34.84473009999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: 18:00 – 02:30",
+      "sábado: 18:00 – 02:30",
+      "domingo: 14:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Boteco do Porto Olinda",
+    "descricao": "Boteco do Porto Olinda, localizado em Av. Min. Marcos Freire, 739 - Bairro Novo, Olinda - PE, 53030-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos Freire, 739 - Bairro Novo, Olinda - PE, 53030-000, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.005424499999998,
+    "longitude": -34.84025569999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: 17:00 – 03:00",
+      "sábado: 17:00 – 03:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Bodega de Veio - Olinda",
+    "descricao": "Porções e petiscos com destaque à tábua de frios, aperitivos, drinques, em espaço histórico de clima simples.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. do Amparo, 212 - Amparo, Olinda - PE, 53025-080, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.0127468,
+    "longitude": -34.85319899999999,
+    "horario": [
+      "segunda-feira: 10:00 – 22:00",
+      "terça-feira: 10:00 – 22:00",
+      "quarta-feira: 10:00 – 22:00",
+      "quinta-feira: 10:00 – 22:00",
+      "sexta-feira: 10:00 – 22:00",
+      "sábado: 10:00 – 23:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Confraria do Zé Perninha",
+    "descricao": "Confraria do Zé Perninha, localizado em R. Delmiro Monteiro da Purificação, 1415 - Jardim Atlântico, Olinda - PE, 53050-220, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Delmiro Monteiro da Purificação, 1415 - Jardim Atlântico, Olinda - PE, 53050-220, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.969772400000002,
+    "longitude": -34.8373655,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 10:00 – 19:00",
+      "quarta-feira: 10:00 – 19:00",
+      "quinta-feira: 10:00 – 19:00",
+      "sexta-feira: 10:00 – 20:00",
+      "sábado: 10:00 – 19:30",
+      "domingo: 10:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Bar do Amparo",
+    "descricao": "Bar do Amparo, localizado em R. do Amparo, 3 - Amparo, Olinda - PE, 53025-080, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. do Amparo, 3 - Amparo, Olinda - PE, 53025-080, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.014529999999999,
+    "longitude": -34.8530925,
+    "horario": [
+      "segunda-feira: 17:00 – 00:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 12:00 – 00:00",
+      "quinta-feira: 12:00 – 00:00",
+      "sexta-feira: 12:00 – 00:00",
+      "sábado: 12:00 – 00:00",
+      "domingo: 12:00 – 21:00"
+    ]
+  },
+  {
+    "nome": "Bar Chaparrall do Cézar",
+    "descricao": "Bar Chaparrall do Cézar, localizado em R. Manoel dos Santos Moreira, 200 - Loja 01 - Casa Caiada, Olinda - PE, 53130-250, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Manoel dos Santos Moreira, 200 - Loja 01 - Casa Caiada, Olinda - PE, 53130-250, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.9895527,
+    "longitude": -34.8404486,
+    "horario": [
+      "segunda-feira: 08:00 – 22:00",
+      "terça-feira: 08:00 – 22:00",
+      "quarta-feira: 08:00 – 22:00",
+      "quinta-feira: 08:00 – 22:00",
+      "sexta-feira: 08:00 – 22:00",
+      "sábado: 09:00 – 23:00",
+      "domingo: 14:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Portal de Olinda",
+    "descricao": "Portal de Olinda, localizado em Av. Min. Marcos Freire, 1255 - Bairro Novo, Olinda - PE, 53030-005, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos Freire, 1255 - Bairro Novo, Olinda - PE, 53030-005, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.0009254,
+    "longitude": -34.83937709999999,
+    "horario": [
+      "segunda-feira: 09:00 – 22:00",
+      "terça-feira: 09:00 – 22:00",
+      "quarta-feira: 09:00 – 22:00",
+      "quinta-feira: 09:00 – 22:00",
+      "sexta-feira: 09:00 – 22:00",
+      "sábado: 09:00 – 22:00",
+      "domingo: 09:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Palhoça da Galega",
+    "descricao": "Palhoça da Galega, localizado em Av. Min. Marcos Freire, 3302-3426 - Casa Caiada, Olinda - PE, 53130-555, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos Freire, 3302-3426 - Casa Caiada, Olinda - PE, 53130-555, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.9836139,
+    "longitude": -34.8362973,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: Fechado",
+      "sábado: 09:00 – 17:00",
+      "domingo: 09:00 – 17:00"
+    ]
+  },
+  {
+    "nome": "Fogo de Occa",
+    "descricao": "Fogo de Occa, localizado em R. Treze de Maio, 229 - Carmo, Olinda - PE, 53020-170, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Treze de Maio, 229 - Carmo, Olinda - PE, 53020-170, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.015600899999997,
+    "longitude": -34.8535838,
+    "horario": [
+      "segunda-feira: 19:00 – 01:00",
+      "terça-feira: 19:00 – 01:00",
+      "quarta-feira: 19:00 – 01:00",
+      "quinta-feira: 19:00 – 01:00",
+      "sexta-feira: 18:00 – 23:00",
+      "sábado: 18:00 – 23:00",
+      "domingo: 14:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Na Casa D Mãe Petiscaria",
+    "descricao": "Na Casa D Mãe Petiscaria, localizado em Av. Fagundes Varela, 617 - Jardim Atlântico, Olinda - PE, 53140-080, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Fagundes Varela, 617 - Jardim Atlântico, Olinda - PE, 53140-080, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.977700800000001,
+    "longitude": -34.8413349,
+    "horario": [
+      "segunda-feira: 11:00 – 00:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 11:00 – 00:00",
+      "quinta-feira: 11:00 – 00:00",
+      "sexta-feira: 11:00 – 00:00",
+      "sábado: 11:00 – 00:00",
+      "domingo: 11:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Caldeirão Premium",
+    "descricao": "Caldeirão Premium, localizado em Av. Min. Marcos Freire, 865 - Bairro Novo, Olinda - PE, 53030-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos Freire, 865 - Bairro Novo, Olinda - PE, 53030-000, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.0045304,
+    "longitude": -34.8401071,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 17:00 – 00:30",
+      "quarta-feira: 17:00 – 00:30",
+      "quinta-feira: 17:00 – 00:30",
+      "sexta-feira: 16:00 – 03:00",
+      "sábado: 12:00 – 03:00",
+      "domingo: 12:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Bar do Biu",
+    "descricao": "Bar do Biu, localizado em R. do Chorão, 155 - Rio Doce, Olinda - PE, 53150-440, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. do Chorão, 155 - Rio Doce, Olinda - PE, 53150-440, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.9563826,
+    "longitude": -34.85055839999999,
+    "horario": [
+      "segunda-feira: 08:00 – 19:00",
+      "terça-feira: 08:00 – 19:00",
+      "quarta-feira: 08:00 – 19:00",
+      "quinta-feira: 08:00 – 19:00",
+      "sexta-feira: 08:00 – 19:00",
+      "sábado: 08:00 – 19:00",
+      "domingo: 08:00 – 12:00"
+    ]
+  },
+  {
+    "nome": "Cavalote Cervejaria Pub - Chopp Artesanal",
+    "descricao": "Cavalote Cervejaria Pub - Chopp Artesanal, localizado em R. de São Bento, 239 - Carmo, Olinda - PE, 53020-080, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. de São Bento, 239 - Carmo, Olinda - PE, 53020-080, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.017231299999999,
+    "longitude": -34.85238539999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 23:00",
+      "quinta-feira: 17:00 – 23:00",
+      "sexta-feira: 17:00 – 01:00",
+      "sábado: 16:00 – 01:00",
+      "domingo: 16:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Olinda Art & Grill",
+    "descricao": "Cozinha variada com braseiro de carnes e pescados em ambiente descolado com piso panorâmico e música ao vivo.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Bpo. Coutinho, 35 - Carmo, Olinda - PE, 53120-130, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.013959999999999,
+    "longitude": -34.84997809999999,
+    "horario": [
+      "segunda-feira: 11:00 – 18:00",
+      "terça-feira: 11:00 – 18:00",
+      "quarta-feira: 11:00 – 18:00",
+      "quinta-feira: 11:00 – 18:00",
+      "sexta-feira: 11:00 – 23:00",
+      "sábado: 11:00 – 23:00",
+      "domingo: 11:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Esquina do Carmo",
+    "descricao": "Esquina do Carmo, localizado em R. do Sol, 09 - Carmo, Olinda - PE, 53120-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. do Sol, 09 - Carmo, Olinda - PE, 53120-010, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.016757,
+    "longitude": -34.8477808,
+    "horario": [
+      "segunda-feira: 16:00 – 00:00",
+      "terça-feira: 00:00 – 06:00, 16:00 – 00:00",
+      "quarta-feira: 16:00 – 01:00",
+      "quinta-feira: 16:00 – 02:00",
+      "sexta-feira: 16:00 – 03:00",
+      "sábado: 16:00 – 04:00",
+      "domingo: 15:00 – 05:00"
+    ]
+  },
+  {
+    "nome": "Bar e Restaurante Cantinho da Sé",
+    "descricao": "Bar e Restaurante Cantinho da Sé, localizado em Ladeira da Sé, 305 - Carmo, Olinda - PE, 53120-130, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Ladeira da Sé, 305 - Carmo, Olinda - PE, 53120-130, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.0141593,
+    "longitude": -34.84971700000001,
+    "horario": [
+      "segunda-feira: 11:00 – 18:00",
+      "terça-feira: 11:00 – 18:00",
+      "quarta-feira: 11:00 – 18:00",
+      "quinta-feira: 11:00 – 18:00",
+      "sexta-feira: 11:00 – 18:00",
+      "sábado: 11:00 – 18:00",
+      "domingo: 11:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Venda De Seu Biu - Olinda",
+    "descricao": "Venda De Seu Biu - Olinda, localizado em Rua 27 de Janeiro, 32 - Carmo, Olinda - PE, 53020-020, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua 27 de Janeiro, 32 - Carmo, Olinda - PE, 53020-020, Brasil",
+    "cidade": "olinda",
+    "latitude": -8.0165078,
+    "longitude": -34.8512664,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 01:00",
+      "sexta-feira: 17:00 – 01:00",
+      "sábado: 17:00 – 01:00",
+      "domingo: 17:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Palhoça Do Carlinhos",
+    "descricao": "Palhoça Do Carlinhos, localizado em Av. Min. Marcos Freire - Casa Caiada, Olinda - PE, 53130-540, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos Freire - Casa Caiada, Olinda - PE, 53130-540, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.9853238,
+    "longitude": -34.8372468,
+    "horario": [
+      "segunda-feira: 08:00 – 18:00",
+      "terça-feira: 08:00 – 18:00",
+      "quarta-feira: 08:00 – 18:00",
+      "quinta-feira: 08:00 – 18:00",
+      "sexta-feira: 08:00 – 18:00",
+      "sábado: 08:00 – 18:00",
+      "domingo: 08:00 – 18:00"
+    ]
+  },
+  {
+    "nome": "Quintal do Bola",
+    "descricao": "Quintal do Bola, localizado em R. Odílio Campos, 176 - Casa Caiada, Olinda - PE, 53130-210, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Odílio Campos, 176 - Casa Caiada, Olinda - PE, 53130-210, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.989459899999999,
+    "longitude": -34.8444966,
+    "horario": []
+  },
+  {
+    "nome": "Cambota Gastrobar",
+    "descricao": "Cambota Gastrobar, localizado em R. Manoel Graciliano de Souza, 501 - Jardim Atlântico, Olinda - PE, 53210-790, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Manoel Graciliano de Souza, 501 - Jardim Atlântico, Olinda - PE, 53210-790, Brasil",
+    "cidade": "olinda",
+    "latitude": -7.977276700000001,
+    "longitude": -34.840046,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: 14:00 – 22:00",
+      "sexta-feira: 14:00 – 22:00",
+      "sábado: 14:00 – 22:00",
+      "domingo: 14:00 – 22:00"
+    ]
+  }
+]

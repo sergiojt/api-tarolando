@@ -1,0 +1,338 @@
+[
+  {
+    "nome": "Seu Geraldo Boteco",
+    "descricao": "Seu Geraldo Boteco, localizado em Av. Rodolfo Aureliano, 114 - Vila Torres Galvão, Paulista - PE, 53403-740, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Rodolfo Aureliano, 114 - Vila Torres Galvão, Paulista - PE, 53403-740, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.953251499999998,
+    "longitude": -34.8761247,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 02:00",
+      "sábado: 18:00 – 02:00",
+      "domingo: 17:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "QUINTAL 191 BAR E GRILL - JD. PAULISTA",
+    "descricao": "QUINTAL 191 BAR E GRILL - JD. PAULISTA, localizado em R. 46, 02 - Jardim Paulista, Paulista - PE, 53421-241, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. 46, 02 - Jardim Paulista, Paulista - PE, 53421-241, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.951086299999998,
+    "longitude": -34.89719669999999,
+    "horario": [
+      "segunda-feira: 17:00 – 02:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 02:00",
+      "quinta-feira: 17:00 – 02:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 17:00 – 02:00",
+      "domingo: 15:00 – 02:00"
+    ]
+  },
+  {
+    "nome": "BOTECO DA VILLA",
+    "descricao": "BOTECO DA VILLA, localizado em Av. Brasil, 110 - Jardim Maranguape, Paulista - PE, 53444-490, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Brasil, 110 - Jardim Maranguape, Paulista - PE, 53444-490, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.9504816,
+    "longitude": -34.8521202,
+    "horario": [
+      "segunda-feira: 11:00 – 00:00",
+      "terça-feira: 11:00 – 16:00",
+      "quarta-feira: 11:00 – 16:00",
+      "quinta-feira: 11:00 – 22:45",
+      "sexta-feira: 11:00 – 00:00",
+      "sábado: 11:30 – 00:00",
+      "domingo: 11:30 – 00:00"
+    ]
+  },
+  {
+    "nome": "Alternativo Point Bar",
+    "descricao": "Alternativo Point Bar, localizado em Av. Min. Marcos de Barros Freire, 06 - Jardim Paulista, Paulista - PE, 53421-035, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Min. Marcos de Barros Freire, 06 - Jardim Paulista, Paulista - PE, 53421-035, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.9517316,
+    "longitude": -34.8974889,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 02:00",
+      "sábado: 18:00 – 02:00",
+      "domingo: 18:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Caldinho Do Nildo",
+    "descricao": "Caldinho Do Nildo, localizado em Av. Brasil, 185 - Jardim Maranguape, Paulista - PE, 53441-600, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Brasil, 185 - Jardim Maranguape, Paulista - PE, 53441-600, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.952298,
+    "longitude": -34.85128899999999,
+    "horario": [
+      "segunda-feira: 08:00 – 05:00",
+      "terça-feira: 08:00 – 05:00",
+      "quarta-feira: 08:00 – 05:00",
+      "quinta-feira: 08:00 – 05:00",
+      "sexta-feira: 08:00 – 05:00",
+      "sábado: 08:00 – 05:00",
+      "domingo: 08:00 – 05:00"
+    ]
+  },
+  {
+    "nome": "Bibito's Bar",
+    "descricao": "Bibito's Bar, localizado em Rua Escada, 006 - Janga, Paulista - PE, 53439-070, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Escada, 006 - Janga, Paulista - PE, 53439-070, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.954857199999999,
+    "longitude": -34.83053779999999,
+    "horario": []
+  },
+  {
+    "nome": "Bar Boteco da Família",
+    "descricao": "Bar Boteco da Família, localizado em Av. Floresta, 357 - Artur Lundgren I, Paulista - PE, 53415-140, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Floresta, 357 - Artur Lundgren I, Paulista - PE, 53415-140, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.937735699999998,
+    "longitude": -34.89444890000001,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 17:00 – 02:00",
+      "quarta-feira: 17:00 – 02:00",
+      "quinta-feira: 17:00 – 02:00",
+      "sexta-feira: 17:00 – 02:00",
+      "sábado: 17:00 – 02:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Hangar da Breja",
+    "descricao": "Hangar da Breja, localizado em Av. Ministro Marcos de Barros Freire, 160 - Galeria Aviador Roberto Gonçalves - Loja 12 - Jardim Paulista Baixo, Paulista - PE, 53407-355, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Ministro Marcos de Barros Freire, 160 - Galeria Aviador Roberto Gonçalves - Loja 12 - Jardim Paulista Baixo, Paulista - PE, 53407-355, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.949532199999999,
+    "longitude": -34.8950632,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 02:00",
+      "sábado: 18:00 – 02:00",
+      "domingo: 18:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Eskina bar",
+    "descricao": "Eskina bar, localizado em R. Rio Amazonas, 5001 - Nobre, Paulista - PE, 53401-710, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Rio Amazonas, 5001 - Nobre, Paulista - PE, 53401-710, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.940035599999999,
+    "longitude": -34.86937450000001,
+    "horario": []
+  },
+  {
+    "nome": "Caldinho do Miro",
+    "descricao": "Caldinho do Miro, localizado em R. Praça João XXIII, 630 C - Centro, Paulista - PE, 53401-370, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Praça João XXIII, 630 C - Centro, Paulista - PE, 53401-370, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.941459,
+    "longitude": -34.880235,
+    "horario": [
+      "segunda-feira: 08:00 – 21:00",
+      "terça-feira: 08:00 – 21:00",
+      "quarta-feira: 08:00 – 21:00",
+      "quinta-feira: 08:00 – 21:00",
+      "sexta-feira: 08:00 – 21:00",
+      "sábado: 08:00 – 21:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Rielos Bar",
+    "descricao": "Rielos Bar, localizado em Av. A, 712 - Maranguape II, Paulista - PE, 53421-030, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. A, 712 - Maranguape II, Paulista - PE, 53421-030, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.932459700000001,
+    "longitude": -34.8580168,
+    "horario": [
+      "segunda-feira: 00:00 – 09:00, 18:00 – 00:00",
+      "terça-feira: 00:00 – 09:00, 18:00 – 00:00",
+      "quarta-feira: 00:00 – 09:00, 18:00 – 00:00",
+      "quinta-feira: 00:00 – 09:00, 18:00 – 00:00",
+      "sexta-feira: 00:00 – 09:00, 18:00 – 00:00",
+      "sábado: 00:00 – 09:00, 18:00 – 00:00",
+      "domingo: 00:00 – 09:00, 18:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Carneiro's Bar",
+    "descricao": "Carneiro's Bar, localizado em R. Cinqüenta e Um, 21 - Jardim Paulista Baixo, Paulista - PE, 53409-580, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Cinqüenta e Um, 21 - Jardim Paulista Baixo, Paulista - PE, 53409-580, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.949860800000001,
+    "longitude": -34.89738649999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 00:00",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 00:00",
+      "sábado: 18:00 – 00:00",
+      "domingo: 18:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Boteco Carioca | Bar no Janga em Paulista PE",
+    "descricao": "Boteco Carioca | Bar no Janga em Paulista PE, localizado em Av. Dr. Cláudio José Gueiros Leite, 4351 - Janga, Paulista - PE, 53435-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Dr. Cláudio José Gueiros Leite, 4351 - Janga, Paulista - PE, 53435-000, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.919810200000001,
+    "longitude": -34.8212144,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 00:00",
+      "sexta-feira: 17:00 – 03:00",
+      "sábado: 17:00 – 03:00",
+      "domingo: 17:00 – 03:00"
+    ]
+  },
+  {
+    "nome": "States Boteco",
+    "descricao": "States Boteco, localizado em R. Estados Unidos, 710 - Pau Amarelo, Paulista - PE, 53431-105, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Estados Unidos, 710 - Pau Amarelo, Paulista - PE, 53431-105, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.904742199999999,
+    "longitude": -34.8386375,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: 17:00 – 03:00",
+      "sexta-feira: 17:00 – 03:00",
+      "sábado: 17:00 – 03:00",
+      "domingo: 17:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "O Esconderijo Bar & Petiscaria",
+    "descricao": "O Esconderijo Bar & Petiscaria, localizado em R. Orlando Alvês de Souza, 106 - Jardim Maranguape, Paulista - PE, 53442-120, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Orlando Alvês de Souza, 106 - Jardim Maranguape, Paulista - PE, 53442-120, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.952660599999998,
+    "longitude": -34.8496746,
+    "horario": [
+      "segunda-feira: 11:00 – 16:00",
+      "terça-feira: 11:00 – 16:00",
+      "quarta-feira: 11:00 – 16:00",
+      "quinta-feira: 11:00 – 16:00",
+      "sexta-feira: 11:00 – 16:00",
+      "sábado: 11:00 – 16:00",
+      "domingo: 11:00 – 16:00"
+    ]
+  },
+  {
+    "nome": "Bar da Tia Creusa",
+    "descricao": "Bar da Tia Creusa, localizado em R. Papa João Paulo I, 185 - Nossa Sra. do Ó, Paulista - PE, 53429-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Papa João Paulo I, 185 - Nossa Sra. do Ó, Paulista - PE, 53429-010, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.890579099999999,
+    "longitude": -34.8246218,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: 08:00 – 18:30",
+      "sábado: 08:00 – 18:30",
+      "domingo: 08:00 – 18:30"
+    ]
+  },
+  {
+    "nome": "Denis Bar",
+    "descricao": "Denis Bar, localizado em Rua Poeta João Neves, 2 - Janga, Paulista - PE, 53437-490, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua Poeta João Neves, 2 - Janga, Paulista - PE, 53437-490, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.9298128,
+    "longitude": -34.8213324,
+    "horario": [
+      "segunda-feira: 08:00 – 20:00",
+      "terça-feira: 08:00 – 20:00",
+      "quarta-feira: 08:00 – 20:00",
+      "quinta-feira: 08:00 – 20:00",
+      "sexta-feira: 08:00 – 20:00",
+      "sábado: 08:00 – 20:00",
+      "domingo: 08:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Caldinho do tony 1",
+    "descricao": "Caldinho do tony 1, localizado em Av. Colibri, 166 - Maranguape I, Paulista - PE, 53441-110, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Colibri, 166 - Maranguape I, Paulista - PE, 53441-110, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.9497176,
+    "longitude": -34.8636542,
+    "horario": []
+  },
+  {
+    "nome": "Caldinho e Hamburguer Amarelinho",
+    "descricao": "Caldinho e Hamburguer Amarelinho, localizado em Rua do Mercado 56 publico - Maranguape I, Paulista - PE, 53441-360, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Rua do Mercado 56 publico - Maranguape I, Paulista - PE, 53441-360, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.950441599999999,
+    "longitude": -34.8611474,
+    "horario": [
+      "segunda-feira: 17:00 – 00:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 17:00 – 00:00",
+      "quinta-feira: 17:00 – 00:00",
+      "sexta-feira: 17:00 – 00:00",
+      "sábado: 17:00 – 00:00",
+      "domingo: 17:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "SEU PAULISTA - CALDINHO BRASA BAR",
+    "descricao": "SEU PAULISTA - CALDINHO BRASA BAR, localizado em Av. Pres. Tancredo Neves, 190 - Jardim Paulista, Paulista - PE, 53409-190, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Pres. Tancredo Neves, 190 - Jardim Paulista, Paulista - PE, 53409-190, Brasil",
+    "cidade": "paulista",
+    "latitude": -7.948368900000002,
+    "longitude": -34.8977939,
+    "horario": [
+      "segunda-feira: 09:00 – 17:00",
+      "terça-feira: 17:00 – 01:45",
+      "quarta-feira: 17:00 – 01:00",
+      "quinta-feira: 17:00 – 01:00",
+      "sexta-feira: 17:00 – 01:00",
+      "sábado: 17:00 – 01:00",
+      "domingo: 17:00 – 01:00"
+    ]
+  }
+]

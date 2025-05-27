@@ -1,0 +1,354 @@
+[
+  {
+    "nome": "Seu Zé Lounge & Bar",
+    "descricao": "Seu Zé Lounge & Bar, localizado em R. Francisco Joaquim, 100 - Maurício de Nassau, Caruaru - PE, 55012-230, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Francisco Joaquim, 100 - Maurício de Nassau, Caruaru - PE, 55012-230, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.274080399999999,
+    "longitude": -35.9768003,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 16:00 – 01:00",
+      "quarta-feira: 16:00 – 01:00",
+      "quinta-feira: 16:00 – 01:00",
+      "sexta-feira: 16:00 – 01:00",
+      "sábado: 12:00 – 01:00",
+      "domingo: 12:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Na Brasa Bar",
+    "descricao": "Na Brasa Bar, localizado em R. Felipe Camarão, 229 - Nossa Sra. das Dores, Caruaru - PE, 55004-350, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Felipe Camarão, 229 - Nossa Sra. das Dores, Caruaru - PE, 55004-350, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.281558,
+    "longitude": -35.973889,
+    "horario": [
+      "segunda-feira: 06:30 – 16:00",
+      "terça-feira: 06:30 – 16:00",
+      "quarta-feira: 06:30 – 16:00",
+      "quinta-feira: 06:30 – 16:00",
+      "sexta-feira: 06:30 – 16:00",
+      "sábado: 06:30 – 16:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Boteco Paulistano",
+    "descricao": "Boteco Paulistano, localizado em R. Visc. de Inhaúma, 845 - Maurício de Nassau, Caruaru - PE, 55012-010, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Visc. de Inhaúma, 845 - Maurício de Nassau, Caruaru - PE, 55012-010, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.274495800000002,
+    "longitude": -35.97552139999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 16:00 – 00:00",
+      "quarta-feira: 16:00 – 00:00",
+      "quinta-feira: 16:00 – 00:00",
+      "sexta-feira: 16:00 – 00:00",
+      "sábado: 10:00 – 00:00",
+      "domingo: 10:00 – 20:00"
+    ]
+  },
+  {
+    "nome": "Primos Music Bar",
+    "descricao": "Primos Music Bar, localizado em Av. Adjar da Silva Casé, 963 - Indianópolis, Caruaru - PE, 55024-740, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Adjar da Silva Casé, 963 - Indianópolis, Caruaru - PE, 55024-740, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2925116,
+    "longitude": -35.9523056,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: Fechado",
+      "quinta-feira: Fechado",
+      "sexta-feira: 21:00 – 03:00",
+      "sábado: 20:00 – 04:00",
+      "domingo: 20:00 – 03:00"
+    ]
+  },
+  {
+    "nome": "Fulano de Tal",
+    "descricao": "Fulano de Tal, localizado em Av. Agamenon Magalhães, 1210 - Maurício de Nassau, Caruaru - PE, 55012-290, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Agamenon Magalhães, 1210 - Maurício de Nassau, Caruaru - PE, 55012-290, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.270992,
+    "longitude": -35.97518179999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 16:00 – 01:00",
+      "quinta-feira: 16:00 – 03:00",
+      "sexta-feira: 16:00 – 03:00",
+      "sábado: 16:00 – 03:00",
+      "domingo: 16:00 – 01:00"
+    ]
+  },
+  {
+    "nome": "Boteco do Keka Prime",
+    "descricao": "Boteco do Keka Prime, localizado em R. Alferes Jorge, 398 - Indianópolis, Caruaru - PE, 55024-130, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Alferes Jorge, 398 - Indianópolis, Caruaru - PE, 55024-130, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2863664,
+    "longitude": -35.9603703,
+    "horario": [
+      "segunda-feira: 18:30 – 01:00",
+      "terça-feira: 18:30 – 01:00",
+      "quarta-feira: 18:30 – 01:00",
+      "quinta-feira: 18:30 – 01:30",
+      "sexta-feira: 18:30 – 02:00",
+      "sábado: 18:30 – 04:00",
+      "domingo: 18:30 – 02:00"
+    ]
+  },
+  {
+    "nome": "Metal Beer",
+    "descricao": "Ponto de encontro alternativo para fãs de música rock, com diversas opções de bebidas alcoólicas e porções.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Antônio Satu, 68 - Nossa Sra. das Dores, Caruaru - PE, 55002-250, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.280904999999999,
+    "longitude": -35.96489599999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 00:00",
+      "quinta-feira: 18:00 – 00:00",
+      "sexta-feira: 18:00 – 00:00",
+      "sábado: 17:00 – 00:00",
+      "domingo: 17:00 – 00:00"
+    ]
+  },
+  {
+    "nome": "Boteco Rio Branco",
+    "descricao": "Boteco Rio Branco, localizado em R. Cônego Júlio Cabral, 275 - Salgado, Caruaru - PE, 55016-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Cônego Júlio Cabral, 275 - Salgado, Caruaru - PE, 55016-000, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.275764299999999,
+    "longitude": -35.9662392,
+    "horario": [
+      "segunda-feira: 12:00 – 22:00",
+      "terça-feira: 12:00 – 22:00",
+      "quarta-feira: 12:00 – 22:00",
+      "quinta-feira: 12:00 – 22:00",
+      "sexta-feira: 12:00 – 22:00",
+      "sábado: 12:00 – 22:00",
+      "domingo: 12:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Ferreiro Rooftop",
+    "descricao": "Ferreiro Rooftop, localizado em Edf. Garagem - Av. Adjar da Silva Casé, 800 - Pavimento 7 - Indianópolis, Caruaru - PE, 55024-740, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Edf. Garagem - Av. Adjar da Silva Casé, 800 - Pavimento 7 - Indianópolis, Caruaru - PE, 55024-740, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2947436,
+    "longitude": -35.9522597,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 12:00 – 22:00",
+      "quarta-feira: 12:00 – 22:00",
+      "quinta-feira: 12:00 – 23:00",
+      "sexta-feira: 12:00 – 23:00",
+      "sábado: 12:00 – 23:00",
+      "domingo: 12:00 – 21:00"
+    ]
+  },
+  {
+    "nome": "The House Pub",
+    "descricao": "The House Pub, localizado em Av. Joaquim Nabuco - Divinópolis, Caruaru - PE, 55010-420, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Joaquim Nabuco - Divinópolis, Caruaru - PE, 55010-420, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.277482199999998,
+    "longitude": -35.9787692,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 01:00",
+      "quinta-feira: 18:00 – 01:00",
+      "sexta-feira: 18:00 – 01:00",
+      "sábado: 18:00 – 01:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Maggnu's Music Bar",
+    "descricao": "Maggnu's Music Bar, localizado em Av. Manoel da Conceição Gonçalves, 440 - Jardim Boa Vista, Caruaru - PE, 55000-000, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Manoel da Conceição Gonçalves, 440 - Jardim Boa Vista, Caruaru - PE, 55000-000, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2618228,
+    "longitude": -36.01174030000001,
+    "horario": []
+  },
+  {
+    "nome": "Hermanos Bar",
+    "descricao": "Hermanos Bar, localizado em R. Justino Francisco da Silva, 1173 - Cedro, Caruaru - PE, 55020-595, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Justino Francisco da Silva, 1173 - Cedro, Caruaru - PE, 55020-595, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.276270399999998,
+    "longitude": -35.94152269999999,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 18:00 – 02:00",
+      "quarta-feira: 18:00 – 02:00",
+      "quinta-feira: 18:00 – 02:00",
+      "sexta-feira: 18:00 – 04:00",
+      "sábado: 18:00 – 04:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Bar da Perua",
+    "descricao": "Cozinha casual variada e familiar à la carte incluindo pratos regionais com opções de pizzas à moda da casa.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Aliança, 175 - Jardim Boa Vista, Caruaru - PE, 55038-030, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2792967,
+    "longitude": -35.9881751,
+    "horario": [
+      "segunda-feira: 11:00 – 16:00",
+      "terça-feira: 11:00 – 16:00",
+      "quarta-feira: 11:00 – 16:00",
+      "quinta-feira: 11:00 – 16:00",
+      "sexta-feira: 11:00 – 16:00",
+      "sábado: 11:00 – 16:00",
+      "domingo: 11:00 – 16:00"
+    ]
+  },
+  {
+    "nome": "The Garden",
+    "descricao": "Bar tranquilo com coquetéis, petiscos de boteco e uma exuberante área externa com assentos.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Monte Cassino, 265-453 - Universitário, Caruaru - PE, 55016-410, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.270005400000002,
+    "longitude": -35.96487759999999,
+    "horario": [
+      "segunda-feira: 11:00 – 00:00",
+      "terça-feira: 11:00 – 00:00",
+      "quarta-feira: 11:00 – 00:00",
+      "quinta-feira: 11:00 – 01:00",
+      "sexta-feira: 11:00 – 02:00",
+      "sábado: 11:00 – 02:00",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Trevos Bar",
+    "descricao": "Trevos Bar, localizado em Av. Leão Dourado, 340 - Caiuca, Caruaru - PE, 55034-200, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Leão Dourado, 340 - Caiuca, Caruaru - PE, 55034-200, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2881138,
+    "longitude": -35.98455209999999,
+    "horario": [
+      "segunda-feira: 07:00 – 17:30",
+      "terça-feira: 07:00 – 17:30",
+      "quarta-feira: 07:00 – 17:30",
+      "quinta-feira: 07:00 – 17:30",
+      "sexta-feira: 07:00 – 17:30",
+      "sábado: 07:00 – 17:30",
+      "domingo: Fechado"
+    ]
+  },
+  {
+    "nome": "Petiscaria do Titio Campo do Central",
+    "descricao": "Petiscaria do Titio Campo do Central, localizado em Av. Prof. José Leão, 425 - Maurício de Nassau, Caruaru - PE, 55012-070, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Prof. José Leão, 425 - Maurício de Nassau, Caruaru - PE, 55012-070, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2793392,
+    "longitude": -35.9728901,
+    "horario": [
+      "segunda-feira: 16:00 – 02:00",
+      "terça-feira: 16:00 – 02:00",
+      "quarta-feira: 16:00 – 02:00",
+      "quinta-feira: 16:00 – 02:00",
+      "sexta-feira: 13:00 – 02:00",
+      "sábado: 13:00 – 02:00",
+      "domingo: 13:00 – 02:00"
+    ]
+  },
+  {
+    "nome": "BOTECO RD | Bar e Petiscaria em Caruaru PE",
+    "descricao": "BOTECO RD | Bar e Petiscaria em Caruaru PE, localizado em R. Sérgio Lorêto, 89 - Indianópolis, Caruaru - PE, 55024-270, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Sérgio Lorêto, 89 - Indianópolis, Caruaru - PE, 55024-270, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.286566500000001,
+    "longitude": -35.9590212,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 16:00 – 00:00",
+      "quarta-feira: 16:00 – 00:00",
+      "quinta-feira: 16:00 – 00:00",
+      "sexta-feira: 16:00 – 00:00",
+      "sábado: 12:00 – 00:00",
+      "domingo: 12:00 – 23:00"
+    ]
+  },
+  {
+    "nome": "CUIDA Bar e Petiscaria",
+    "descricao": "CUIDA Bar e Petiscaria, localizado em R. Manoel Nunes Filho, 21 - Indianópolis, Caruaru - PE, 55024-320, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Manoel Nunes Filho, 21 - Indianópolis, Caruaru - PE, 55024-320, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.287890599999999,
+    "longitude": -35.9579026,
+    "horario": [
+      "segunda-feira: 18:00 – 03:00",
+      "terça-feira: Fechado",
+      "quarta-feira: 18:00 – 03:00",
+      "quinta-feira: 18:00 – 03:00",
+      "sexta-feira: 18:00 – 03:00",
+      "sábado: 17:00 – 03:00",
+      "domingo: 14:00 – 22:00"
+    ]
+  },
+  {
+    "nome": "Bar da Fava",
+    "descricao": "Bar da Fava, localizado em R. Carlos Luz, 165 - Jardim Boa Vista, Caruaru - PE, 55038-660, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "R. Carlos Luz, 165 - Jardim Boa Vista, Caruaru - PE, 55038-660, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.265097399999998,
+    "longitude": -35.9893087,
+    "horario": [
+      "segunda-feira: Fechado",
+      "terça-feira: 08:00 – 16:00",
+      "quarta-feira: 08:00 – 16:00",
+      "quinta-feira: 08:00 – 16:00",
+      "sexta-feira: 08:00 – 16:00",
+      "sábado: 08:00 – 16:00",
+      "domingo: 08:00 – 16:00"
+    ]
+  },
+  {
+    "nome": "Eita! Bar e restaurante",
+    "descricao": "Eita! Bar e restaurante, localizado em Av. Marcionilo Francisco da Silva, 336 - Maurício de Nassau, Caruaru - PE, 55014-380, Brasil.",
+    "estilo": "🍻 Bar",
+    "endereco": "Av. Marcionilo Francisco da Silva, 336 - Maurício de Nassau, Caruaru - PE, 55014-380, Brasil",
+    "cidade": "caruaru",
+    "latitude": -8.2701781,
+    "longitude": -35.97074509999999,
+    "horario": [
+      "segunda-feira: 11:00 – 23:00",
+      "terça-feira: 11:00 – 23:00",
+      "quarta-feira: 11:00 – 23:00",
+      "quinta-feira: 11:00 – 23:00",
+      "sexta-feira: 11:00 – 23:00",
+      "sábado: 11:00 – 23:00",
+      "domingo: 11:00 – 23:00"
+    ]
+  }
+]

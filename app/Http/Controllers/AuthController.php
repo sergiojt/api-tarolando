@@ -48,6 +48,38 @@ class AuthController extends Controller
         }
     }
 
+    public function update(Request $request, User $user){
+        if($request->user_id != $user->id){
+            return response()->json([
+                "data" => $user,
+                "message" => "Não autorizado."
+            ], 401);
+        }
+
+        $user->update($request->all());
+
+        return response()->json([
+            "data" => $user,
+            "message" => "Login completed successfully."
+        ], 201);
+    }
+
+    public function show(Request $request, User $user){
+        if($request->user_id != $user->id){
+            return response()->json([
+                "data" => $user,
+                "message" => "Não autorizado."
+            ], 401);
+        }
+
+        $user->load(["amigos"]);
+
+        return response()->json([
+            "data" => $user,
+            "message" => "Login completed successfully."
+        ], 201);
+    }
+
     public function findGoogle($id){
         $user = User::where("google_id", $id)->first();
 

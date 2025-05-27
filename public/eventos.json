@@ -1,322 +1,57 @@
-[
-  {
-    "nome": "Bar Seu João",
-    "descricao": "Caldos, bolinhos, variedade de petiscos e destaque à feijoada, com cervejas e caipirinhas, em espaço simples.",
-    "endereco": "R. Fernando Luiz Henriques Dos Santos, 1501 - Loja 02 - Jardim Oceania, João Pessoa - PB, 58037-050, Brasil",
-    "latitude": -7.083662100000001,
-    "longitude": -34.8340836,
-    "horario": [
-      "segunda-feira: 11:00 – 23:00",
-      "terça-feira: 16:00 – 23:00",
-      "quarta-feira: 16:00 – 23:00",
-      "quinta-feira: 16:00 – 23:00",
-      "sexta-feira: 11:00 – 00:00",
-      "sábado: 11:00 – 00:00",
-      "domingo: 11:00 – 22:00"
-    ]
-  },
-  {
-    "nome": "Seu Antonio Bar",
-    "descricao": "Seu Antonio Bar, localizado em R. Bacharel José de Oliveira Curchatuz, 227b - Jardim Oceania, João Pessoa - PB, 58037-432, Brasil.",
-    "endereco": "R. Bacharel José de Oliveira Curchatuz, 227b - Jardim Oceania, João Pessoa - PB, 58037-432, Brasil",
-    "latitude": -7.0861165,
-    "longitude": -34.8402113,
-    "horario": [
-      "segunda-feira: 11:00 – 01:00",
-      "terça-feira: 11:00 – 01:00",
-      "quarta-feira: 11:00 – 01:00",
-      "quinta-feira: 11:00 – 01:00",
-      "sexta-feira: 11:00 – 01:00",
-      "sábado: 12:00 – 01:00",
-      "domingo: 12:00 – 22:00"
-    ]
-  },
-  {
-    "nome": "Giramundo",
-    "descricao": "Bar e restaurante serve petiscos e pratos individuais variados em quiosque de praia descontraído com terraço.",
-    "endereco": "Av. Alm. Tamandaré, 564 - Tambaú, João Pessoa - PB, 58039-010, Brasil",
-    "latitude": -7.1156217,
-    "longitude": -34.8227199,
-    "horario": [
-      "segunda-feira: 11:00 – 00:00",
-      "terça-feira: 11:00 – 00:00",
-      "quarta-feira: 11:00 – 00:00",
-      "quinta-feira: 11:00 – 00:00",
-      "sexta-feira: 11:00 – 00:00",
-      "sábado: 11:00 – 00:00",
-      "domingo: 11:00 – 00:00"
-    ]
-  },
-  {
-    "nome": "Bar de Rock João Pessoa - After Pub",
-    "descricao": "Boemia ao som de bandas entre temas do rock clássico, em ambiente intimista com troca de olhares e coquetéis.",
-    "endereco": "Av. Izidro Gomes, 63 - Tambaú, João Pessoa - PB, 58039-160, Brasil",
-    "latitude": -7.111283999999999,
-    "longitude": -34.82492319999999,
-    "horario": [
-      "segunda-feira: Fechado",
-      "terça-feira: Fechado",
-      "quarta-feira: Fechado",
-      "quinta-feira: Fechado",
-      "sexta-feira: 21:00 – 03:00",
-      "sábado: 21:00 – 03:00",
-      "domingo: Fechado"
-    ]
-  },
-  {
-    "nome": "Golfinho Bar e Restaurante em João Pessoa",
-    "descricao": "Cozinha brasileira variada e regional de pratos e petiscos populares, em boteco descontraído defronte à praia.",
-    "endereco": "Av. Gov. Argemiro de Figueiredo, 1890 - Jardim Oceania, João Pessoa - PB, 58037-030, Brasil",
-    "latitude": -7.080731999999998,
-    "longitude": -34.83127399999999,
-    "horario": [
-      "segunda-feira: 09:00 – 18:00",
-      "terça-feira: 09:00 – 18:00",
-      "quarta-feira: 09:00 – 18:00",
-      "quinta-feira: 09:00 – 18:00",
-      "sexta-feira: 09:00 – 18:00",
-      "sábado: 09:00 – 18:00",
-      "domingo: 09:00 – 18:00"
-    ]
-  },
-  {
-    "nome": "Bar do Cuscuz",
-    "descricao": "Frutos do mar, carnes, bebidas e mais, em espaço rústico e descontraído na orla, com jardim e playground.",
-    "endereco": "Av. Cabo Branco, 3056 - Cabo Branco, João Pessoa - PB, 58045-010, Brasil",
-    "latitude": -7.1365339,
-    "longitude": -34.8194621,
-    "horario": [
-      "segunda-feira: 11:00 – 01:00",
-      "terça-feira: 11:00 – 01:00",
-      "quarta-feira: 11:00 – 01:00",
-      "quinta-feira: 11:00 – 01:00",
-      "sexta-feira: 11:00 – 01:00",
-      "sábado: 11:00 – 01:00",
-      "domingo: 11:00 – 01:00"
-    ]
-  },
-  {
-    "nome": "Esperanto Boteco",
-    "descricao": "Esperanto Boteco, localizado em Av. Pombal, 611 - Manaíra, João Pessoa - PB, 58038-241, Brasil.",
-    "endereco": "Av. Pombal, 611 - Manaíra, João Pessoa - PB, 58038-241, Brasil",
-    "latitude": -7.1071824,
-    "longitude": -34.8318134,
-    "horario": [
-      "segunda-feira: Fechado",
-      "terça-feira: 17:00 – 22:00",
-      "quarta-feira: 17:00 – 23:00",
-      "quinta-feira: 17:00 – 00:00",
-      "sexta-feira: 16:00 – 01:00",
-      "sábado: 16:00 – 01:00",
-      "domingo: Fechado"
-    ]
-  },
-  {
-    "nome": "Gringo’s Bar Tambaú",
-    "descricao": "Gringo’s Bar Tambaú, localizado em Rua Bom - R. Coração de Jesus, 201 - Tambaú, João Pessoa - PB, 58039-070, Brasil.",
-    "endereco": "Rua Bom - R. Coração de Jesus, 201 - Tambaú, João Pessoa - PB, 58039-070, Brasil",
-    "latitude": -7.1119618,
-    "longitude": -34.82353149999999,
-    "horario": [
-      "segunda-feira: 18:00 – 03:00",
-      "terça-feira: 18:00 – 03:00",
-      "quarta-feira: 18:00 – 03:00",
-      "quinta-feira: 18:00 – 03:00",
-      "sexta-feira: 18:00 – 03:00",
-      "sábado: 18:00 – 03:00",
-      "domingo: 18:00 – 03:00"
-    ]
-  },
-  {
-    "nome": "Skybar Tour Genève",
-    "descricao": "Skybar Tour Genève, localizado em R. Ana Guedes De Vasconcelos, 197 - Altiplano Cabo Branco, João Pessoa - PB, 58046-092, Brasil.",
-    "endereco": "R. Ana Guedes De Vasconcelos, 197 - Altiplano Cabo Branco, João Pessoa - PB, 58046-092, Brasil",
-    "latitude": -7.130184099999999,
-    "longitude": -34.82740440000001,
-    "horario": [
-      "segunda-feira: 16:00 – 00:00",
-      "terça-feira: 16:00 – 00:00",
-      "quarta-feira: 16:00 – 00:00",
-      "quinta-feira: 16:00 – 00:00",
-      "sexta-feira: 16:00 – 00:00",
-      "sábado: 16:00 – 00:00",
-      "domingo: 16:00 – 00:00"
-    ]
-  },
-  {
-    "nome": "Fullano Praia | Bar | Restaurante em João Pessoa",
-    "descricao": "Bar com variedade de bebidas e petiscos, porções de camarão, pratos, iscas de peixe, em ambiente descontraído.",
-    "endereco": "Av. Gov. Argemiro de Figueiredo, 1932 - Jardim Oceania, João Pessoa - PB, 58037-030, Brasil",
-    "latitude": -7.080362999999999,
-    "longitude": -34.8310255,
-    "horario": [
-      "segunda-feira: 09:00 – 18:00",
-      "terça-feira: 09:00 – 18:00",
-      "quarta-feira: 09:00 – 18:00",
-      "quinta-feira: 09:00 – 18:00",
-      "sexta-feira: 09:00 – 18:00",
-      "sábado: 09:00 – 19:00",
-      "domingo: 09:00 – 19:00"
-    ]
-  },
-  {
-    "nome": "Terraço Cabo Branco aberto",
-    "descricao": "Terraço Cabo Branco aberto, localizado em Calçadão da Orla - Cabo Branco, João Pessoa - PB, 58033-455, Brasil.",
-    "endereco": "Calçadão da Orla - Cabo Branco, João Pessoa - PB, 58033-455, Brasil",
-    "latitude": -7.1220444,
-    "longitude": -34.8238257,
-    "horario": [
-      "segunda-feira: 09:00 – 00:00",
-      "terça-feira: 09:00 – 00:00",
-      "quarta-feira: 09:00 – 00:00",
-      "quinta-feira: 09:00 – 00:00",
-      "sexta-feira: 09:00 – 02:00",
-      "sábado: 09:00 – 02:00",
-      "domingo: 09:00 – 02:00"
-    ]
-  },
-  {
-    "nome": "Praiano Bar",
-    "descricao": "Restaurante boêmio pé na areia que tem porções variadas com destaque aos frutos do mar em receitas regionais.",
-    "endereco": "Av. Gov. Argemiro de Figueiredo, 2210 - Jardim Oceania, João Pessoa - PB, 58037-030, Brasil",
-    "latitude": -7.0778114,
-    "longitude": -34.83036969999999,
-    "horario": [
-      "segunda-feira: 09:00 – 16:00",
-      "terça-feira: 09:00 – 16:00",
-      "quarta-feira: 09:00 – 16:00",
-      "quinta-feira: 09:00 – 16:00",
-      "sexta-feira: 09:00 – 18:00",
-      "sábado: 09:00 – 18:00",
-      "domingo: 09:00 – 18:00"
-    ]
-  },
-  {
-    "nome": "Atol Music Bar",
-    "descricao": "Boemia musical com pegada de porão tem shows de pop rock e ambiente intimista, com cervejas e coquetéis finos.",
-    "endereco": "R. Coração de Jesus, 138 - Tambaú, João Pessoa - PB, 58039-070, Brasil",
-    "latitude": -7.111567099999999,
-    "longitude": -34.8241244,
-    "horario": [
-      "segunda-feira: Fechado",
-      "terça-feira: Fechado",
-      "quarta-feira: Fechado",
-      "quinta-feira: 19:00 – 02:00",
-      "sexta-feira: 19:00 – 02:00",
-      "sábado: 19:00 – 02:00",
-      "domingo: 19:00 – 02:00"
-    ]
-  },
-  {
-    "nome": "Paralelo Pub",
-    "descricao": "Paralelo Pub, localizado em R. Francisco Claudino Pereira, 422 - Manaíra, João Pessoa - PB, 58038-431, Brasil.",
-    "endereco": "R. Francisco Claudino Pereira, 422 - Manaíra, João Pessoa - PB, 58038-431, Brasil",
-    "latitude": -7.1008282,
-    "longitude": -34.8374761,
-    "horario": [
-      "segunda-feira: Fechado",
-      "terça-feira: 18:00 – 01:00",
-      "quarta-feira: 18:00 – 01:00",
-      "quinta-feira: 18:00 – 01:00",
-      "sexta-feira: 18:00 – 03:00",
-      "sábado: 18:00 – 03:00",
-      "domingo: Fechado"
-    ]
-  },
-  {
-    "nome": "Navegantes Bar e Restaurante",
-    "descricao": "Navegantes Bar e Restaurante, localizado em R. Marcionila da Conceição, 1545 - Cabo Branco, João Pessoa - PB, 58045-050, Brasil.",
-    "endereco": "R. Marcionila da Conceição, 1545 - Cabo Branco, João Pessoa - PB, 58045-050, Brasil",
-    "latitude": -7.1228919,
-    "longitude": -34.8262059,
-    "horario": [
-      "segunda-feira: 11:00 – 00:00",
-      "terça-feira: 11:00 – 00:00",
-      "quarta-feira: 11:00 – 00:00",
-      "quinta-feira: 11:00 – 00:00",
-      "sexta-feira: 11:00 – 00:00",
-      "sábado: 11:00 – 00:00",
-      "domingo: 11:00 – 00:00"
-    ]
-  },
-  {
-    "nome": "Lovina Seixas | Bar | Restaurante em João Pessoa",
-    "descricao": "Cantina climatizada de decoração enxuta tem pizzas de sabores compartilhados e assados de carnes nobres.",
-    "endereco": "R. dos Pescadores, 426 - SEIXAS, João Pessoa - PB, 58045-530, Brasil",
-    "latitude": -7.155513500000001,
-    "longitude": -34.793482,
-    "horario": [
-      "segunda-feira: 09:00 – 18:00",
-      "terça-feira: 09:00 – 18:00",
-      "quarta-feira: 09:00 – 18:00",
-      "quinta-feira: 09:00 – 18:00",
-      "sexta-feira: 09:00 – 18:00",
-      "sábado: 09:00 – 18:00",
-      "domingo: 09:00 – 18:00"
-    ]
-  },
-  {
-    "nome": "Manzo Restaurante e pizzaria",
-    "descricao": "Manzo Restaurante e pizzaria, localizado em Av. Guarabira, 986 - Manaíra, João Pessoa - PB, 58038-410, Brasil.",
-    "endereco": "Av. Guarabira, 986 - Manaíra, João Pessoa - PB, 58038-410, Brasil",
-    "latitude": -7.1014819,
-    "longitude": -34.83406910000001,
-    "horario": [
-      "segunda-feira: 11:30 – 23:00",
-      "terça-feira: 11:30 – 23:00",
-      "quarta-feira: 11:30 – 23:00",
-      "quinta-feira: 11:30 – 00:00",
-      "sexta-feira: 12:30 – 00:00",
-      "sábado: 12:30 – 00:00",
-      "domingo: 11:30 – 23:00"
-    ]
-  },
-  {
-    "nome": "Boteco Original",
-    "descricao": "Petiscos e porções, caldinho de camarão, cervejas e caipirinhas, em ambiente informal com espaço a céu aberto.",
-    "endereco": "Rua Bancário Amaury de Sousa, 301 - Bancários, João Pessoa - PB, 58051-380, Brasil",
-    "latitude": -7.1468902,
-    "longitude": -34.8377904,
-    "horario": [
-      "segunda-feira: 18:00 – 00:00",
-      "terça-feira: 18:00 – 00:00",
-      "quarta-feira: 18:00 – 00:00",
-      "quinta-feira: 18:00 – 00:00",
-      "sexta-feira: 18:00 – 00:00",
-      "sábado: 18:00 – 00:00",
-      "domingo: Fechado"
-    ]
-  },
-  {
-    "nome": "Barril 21",
-    "descricao": "Cervejas e petiscos em espaço descontraído com mesas ao ar livre, música e transmissão dos jogos de futebol.",
-    "endereco": "Av. Arthur Monteiro de Paiva, 1497 - Bessa, João Pessoa - PB, 58035-010, Brasil",
-    "latitude": -7.0618988,
-    "longitude": -34.84223,
-    "horario": [
-      "segunda-feira: 11:00 – 00:00",
-      "terça-feira: 11:00 – 00:00",
-      "quarta-feira: 11:00 – 00:00",
-      "quinta-feira: 11:00 – 00:00",
-      "sexta-feira: 11:00 – 01:00",
-      "sábado: 11:00 – 01:00",
-      "domingo: 11:00 – 21:00"
-    ]
-  },
-  {
-    "nome": "Frigideira Bar e Restaurante",
-    "descricao": "Frigideira Bar e Restaurante, localizado em R. Carlos da Silva Brandão - Bancários, João Pessoa - PB, 58051-245, Brasil.",
-    "endereco": "R. Carlos da Silva Brandão - Bancários, João Pessoa - PB, 58051-245, Brasil",
-    "latitude": -7.147750800000001,
-    "longitude": -34.8425698,
-    "horario": [
-      "segunda-feira: 11:00 – 01:00",
-      "terça-feira: 11:00 – 01:00",
-      "quarta-feira: 11:00 – 01:00",
-      "quinta-feira: 11:00 – 01:00",
-      "sexta-feira: 11:00 – 01:00",
-      "sábado: 11:00 – 01:00",
-      "domingo: 11:00 – 01:00"
-    ]
-  }
-]
+{
+  "data": "2025-05-17",
+  "eventos": [
+    {
+      "nome": "Arraial dos Amigos 2025",
+      "local": "Chácara San Diego",
+      "endereco": "Chácara San Diego, Caruaru",
+      "cidade": "Caruaru",
+      "estilo": "Forró / Romântico",
+      "musica_ao_vivo": true,
+      "horario": "A partir das 20h",
+      "ingresso": "A confirmar",
+      "latitude": -8.2826,
+      "longitude": -35.9751,
+      "imagem": null
+    },
+    {
+      "nome": "3ª Corrida Shopping Difusora",
+      "local": "Shopping Difusora",
+      "endereco": "Av. Agamenon Magalhães, Maurício de Nassau, Caruaru",
+      "cidade": "Caruaru",
+      "estilo": "Esporte / Corrida de Rua",
+      "musica_ao_vivo": false,
+      "horario": "Concentração às 17h30, Largada às 18h30",
+      "ingresso": "R$ 130 + 1kg de alimento",
+      "latitude": -8.2826,
+      "longitude": -35.9751,
+      "imagem": null
+    },
+    {
+      "nome": "II São João do Reencontro",
+      "local": "AABB Caruaru",
+      "endereco": "Rua AABB, Caruaru",
+      "cidade": "Caruaru",
+      "estilo": "Forró / Tradicional",
+      "musica_ao_vivo": true,
+      "horario": "A partir das 20h",
+      "ingresso": "A confirmar",
+      "latitude": -8.2826,
+      "longitude": -35.9751,
+      "imagem": null
+    },
+    {
+      "nome": "São João na Roça – Taquara de Cima",
+      "local": "Comunidade de Taquara de Cima",
+      "endereco": "Taquara de Cima, Caruaru",
+      "cidade": "Caruaru",
+      "estilo": "Forró / Cultura Popular",
+      "musica_ao_vivo": true,
+      "horario": "A partir das 19h",
+      "ingresso": "Gratuito",
+      "latitude": -8.2826,
+      "longitude": -35.9751,
+      "imagem": null
+    }
+  ]
+}

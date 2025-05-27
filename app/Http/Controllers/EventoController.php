@@ -32,7 +32,7 @@ class EventoController extends Controller
     {
         set_time_limit(0); // Sem limite de tempo
         
-        $jsonPath = public_path('eventos.json');
+        $jsonPath = public_path('sao-lourenco.json');
 
         if (!File::exists($jsonPath)) {
             return response()->json(['error' => 'Arquivo não encontrado'], 404);
@@ -75,7 +75,7 @@ class EventoController extends Controller
                         'nome' => $evento['nome'],
                         'descricao' => $evento['descricao'] ?? null,
                         'endereco' => $evento['endereco'],
-                        'cidade' => 'Recife',
+                        'cidade' => $evento['cidade'],
                         'local' => $evento['nome'], // Considerando nome como local
                         'estilo' => 'bar',
                         'musica_ao_vivo' => false,
@@ -153,8 +153,8 @@ class EventoController extends Controller
         $query = Evento::query();
     
         // Apenas eventos a partir de hoje
-        if(!isset($request->endereco) && isset($request->cidade) && isset($request->estilo)){
-            $query->where('data', '=', Carbon::today());
+        if($request->filled('data')){
+            $query->where('data', '=', $request->data);
         }else{
             $query->where('data', '>=', Carbon::today());
         }
@@ -172,9 +172,12 @@ class EventoController extends Controller
         if ($request->filled('estilo')) {
             $query->where('estilo', 'like', '%' . $request->estilo . '%');
         }
+
+        if ($request->filled('nome')) {
+            $query->where('name', 'like', '%' . $request->nome . '%');
+        }
     
         // Ordenar por data ASC
- 
         $query->with(['checkins.user'])->with('curtidas')->orderBy('data', 'asc');
     
         return $query->get();
