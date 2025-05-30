@@ -2,11 +2,13 @@
 
 namespace App\Http\Middleware;
 
+use App\Models\User;
 use Closure;
 use Firebase\JWT\ExpiredException;
 use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 use Firebase\JWT\SignatureInvalidException;
+use Illuminate\Support\Facades\Auth;
 
 class JWTToken
 {
@@ -41,6 +43,16 @@ class JWTToken
             $email = $decoded->email;
             $id = $decoded->id;
             $name = $decoded->name;
+
+            $user = User::find($id);
+      
+            if (!$user) {
+                return response()->json(['message' => 'Usuário não encontrado.'], 401);
+            }
+
+            // Autentica o usuário
+            Auth::login($user);
+
         }catch (SignatureInvalidException $e){
             // Signature verification failed'
             return response()->json([

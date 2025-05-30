@@ -3,8 +3,10 @@
 use App\Http\Controllers\AmigoController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\EventoController;
+use App\Http\Controllers\MessageController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Broadcast;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -30,4 +32,8 @@ Route::group(['middleware' => ['JWTToken']], function () {
     Route::post('/eventos/{evento}/checkin', [EventoController::class, 'checkin']);
     Route::get('/user/termo', [AuthController::class, 'termo']);
     Route::apiResource('amigos', AmigoController::class);
+    Route::get('/messages/{id}', [MessageController::class, 'show']);
+    Route::post('/messages', [MessageController::class, 'store']);
 });
+
+Broadcast::routes(['middleware' => ['JWTToken']]);

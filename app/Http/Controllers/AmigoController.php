@@ -1,6 +1,5 @@
 <?php
 
-// app/Http/Controllers/AmigoController.php
 namespace App\Http\Controllers;
 
 use App\Models\Amigo;
