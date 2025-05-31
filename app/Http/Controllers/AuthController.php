@@ -48,7 +48,9 @@ class AuthController extends Controller
         }
     }
 
-    public function update(Request $request, User $user){
+    public function update(Request $request, $id){
+        $user = User::find($id);
+
         if($request->user_id != $user->id){
             return response()->json([
                 "data" => $user,
@@ -64,7 +66,9 @@ class AuthController extends Controller
         ], 201);
     }
 
-    public function show(Request $request, User $user){
+    public function show(Request $request, $id){
+        $user = User::find($id);
+
         if($request->user_id != $user->id){
             return response()->json([
                 "data" => $user,
