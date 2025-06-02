@@ -25,12 +25,12 @@ Route::get('/eventos/importar', [EventoController::class, 'importarEventos']);
 Route::get('/eventos/importar/bar/{data}', [EventoController::class, 'importarEventosDoJson']);
 Route::get('/eventos/importar/sympla', [EventoController::class, 'importSympla']);
 Route::group(['middleware' => ['JWTToken']], function () {
+    Route::get('/user/termo', [AuthController::class, 'termo']);
     Route::get('user/{id}', [AuthController::class, 'show']);
     Route::put('user/{id}', [AuthController::class, 'update']);
     Route::apiResource('eventos', EventoController::class);
     Route::post('/eventos/{id}/curtir', [EventoController::class, 'toggleCurtir']);
     Route::post('/eventos/{evento}/checkin', [EventoController::class, 'checkin']);
-    Route::get('/user/termo', [AuthController::class, 'termo']);
     Route::apiResource('amigos', AmigoController::class);
     Route::get('/messages/{id}', [MessageController::class, 'show']);
     Route::post('/messages', [MessageController::class, 'store']);
