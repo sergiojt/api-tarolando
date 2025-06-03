@@ -9,6 +9,15 @@ use Illuminate\Http\Request;
 
 class AuthController extends Controller
 {
+    public function index(Request $request){
+        $users = User::all();
+
+        return response()->json([
+            "data" => $users,
+            "message" => "Usuarios listados com sucesso."
+        ], 200);
+    }
+
     public function store(Request $request){
         $email = User::where('email', $request->email)->first();
 

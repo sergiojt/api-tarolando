@@ -32,7 +32,7 @@ class EventoController extends Controller
     {
         set_time_limit(0); // Sem limite de tempo
         
-        $jsonPath = public_path('sao-lourenco.json');
+        $jsonPath = public_path('caruaru.json');
 
         if (!File::exists($jsonPath)) {
             return response()->json(['error' => 'Arquivo não encontrado'], 404);

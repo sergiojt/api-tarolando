@@ -25,6 +25,7 @@ Route::get('/eventos/importar', [EventoController::class, 'importarEventos']);
 Route::get('/eventos/importar/bar/{data}', [EventoController::class, 'importarEventosDoJson']);
 Route::get('/eventos/importar/sympla', [EventoController::class, 'importSympla']);
 Route::group(['middleware' => ['JWTToken']], function () {
+    Route::get('user', [AuthController::class, 'index']);
     Route::get('/user/termo', [AuthController::class, 'termo']);
     Route::get('user/{id}', [AuthController::class, 'show']);
     Route::put('user/{id}', [AuthController::class, 'update']);
