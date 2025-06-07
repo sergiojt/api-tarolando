@@ -78,13 +78,6 @@ class AuthController extends Controller
     public function show(Request $request, $id){
         $user = User::find($id);
 
-        if($request->user_id != $user->id){
-            return response()->json([
-                "data" => $user,
-                "message" => "Não autorizado."
-            ], 401);
-        }
-
         $user->load(["amigos"]);
 
         return response()->json([
