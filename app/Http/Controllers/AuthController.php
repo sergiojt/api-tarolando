@@ -78,7 +78,7 @@ class AuthController extends Controller
     public function show(Request $request, $id){
         $user = User::find($id);
 
-        $user->load(["amigos.user", "amigoss.amigo"]);
+        $user->load(["amigos.user", "amigos.amigo"]);
 
         return response()->json([
             "data" => $user,
