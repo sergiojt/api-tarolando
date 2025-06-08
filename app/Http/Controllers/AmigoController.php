@@ -23,7 +23,7 @@ class AmigoController extends Controller
             return response()->json(['message' => 'Amizade já existe.'], 409);
         }
 
-        $amizade = Amigo::create($data);
+        $amizade = Amigo::create($request->all());
         return response()->json($amizade, 201);
     }
 
