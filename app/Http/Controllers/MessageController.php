@@ -9,8 +9,10 @@ use App\Models\User;
 
 class MessageController extends Controller
 {
-    public function show(Request $request, User $user)
+    public function show(Request $request, $id)
     {
+        $user = User::find($id);
+        
         return Message::where(function ($query) use ($request, $user) {
             $query->where('origin_id', $request->user_id)
                   ->where('destiny_id', $user->id);
