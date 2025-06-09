@@ -24,12 +24,14 @@ class AmigoController extends Controller
         }
 
         $amizade = Amigo::create($request->all());
+        $amizade = Amigo::create(["amigo_id" => $request->user_id, "user_id" => $request->amigo_id]);
         return response()->json($amizade, 201);
     }
 
     public function destroy(Request $request, $id)
     {
         $amizade = Amigo::where("amigo_id", $id)->where("user_id", $request->user_id)->first();
+        $amizade = Amigo::where("amigo_id", $request->user_id)->where("user_id", $id)->first();
         $amizade->delete();
 
         return response()->json(null, 204);
