@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\ABCController;
+use App\Http\Middleware\ABCJWTToken;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -23,4 +25,11 @@ Route::get('/remover', function () {
 
 Route::get('/politica-privacidade', function () {
     return view('politica-privacidade');
+});
+
+Route::post('auth/login', [ABCController::class, 'login']);
+Route::post('auth/refresh-token', [ABCController::class, 'refreshToken']);
+
+Route::middleware([ABCJWTToken::class])->group(function () {
+    Route::get('auth/check', [ABCController::class, 'check']);
 });
